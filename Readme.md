@@ -3,7 +3,7 @@
 **This Repository is of all thinks found and mined in the APK File, including Images and More. This repo is organized based on category and is a combination of remote assets found inside the APK.**
 
 
-__**Files and Folder Structure.**__
+__**Files and Folder Structure. APK+Download Asset**__
 
 **AudioClip** **:** 
 **Font** **:** 
@@ -20,7 +20,7 @@ For Tidy and More Structure Repository go to the Pokemon Go Asset Repository, Th
 
 **All content found within this repo is the property of The Pokemon Company and Niantic.**
 
-**Retro John 86 did not create or modify images or sounds found within this repo. This repo let me know about any new file or changes**
+**Retro John 86 did not create or modify images or sounds found within this repo. This repo let me know about any new file or changes PLEASE NOTE : this Repository hold duplicate files**
 
 **Please respect the original source material.**
 
