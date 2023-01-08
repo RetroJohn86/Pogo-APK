@@ -5,9 +5,14 @@
 
 __**Files and Folder Structure. APK+Download Asset**__
 
+**Animator** **:**
 **AudioClip** **:** 
-**Font** **:** 
+**Font** **:**
+**Mesh** **:**
+**MonoBehaviour** **:**
+**Shader** **:**
 **Sprite** **:**
+**TextAsset** **:**
 **Texture2D** **:**
 
 All images, sound effects/music and files from the assets file that i found and mined are located in these Listed Folders.
@@ -20,7 +25,7 @@ For Tidy and More Structure Repository go to the Pokemon Go Asset Repository, Th
 
 **All content found within this repo is the property of The Pokemon Company and Niantic.**
 
-**Retro John 86 did not create or modify images or sounds found within this repo. This repo let me know about any new file or changes PLEASE NOTE : this Repository hold duplicate files and folders**
+**Retro John 86 did not create or modify images or sounds found within this repo. This repo let me know about any new file or changes PLEASE NOTE : this Repository hold duplicate files and folders and files may not work**
 
 **Please respect the original source material.**
 
