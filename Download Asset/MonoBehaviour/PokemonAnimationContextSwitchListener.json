@@ -1,0 +1,360 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6097050374979100828
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6971531955781735298
+  },
+  "m_Name": "",
+  "_pokemonModel": {
+    "m_FileID": 0,
+    "m_PathID": 3659048401893475104
+  },
+  "_contextSwitchCallbacks": [
+    {
+      "Context": 0,
+      "Event": {
+        "m_PersistentCalls": {
+          "m_Calls": [
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": -5659592308303771430
+              },
+              "m_TargetAssemblyTypeName": "",
+              "m_MethodName": "SetActive",
+              "m_Mode": 6,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 0.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 0
+              },
+              "m_CallState": 2
+            },
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": -787700359285765456
+              },
+              "m_TargetAssemblyTypeName": "",
+              "m_MethodName": "SetActive",
+              "m_Mode": 6,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 0.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 1
+              },
+              "m_CallState": 2
+            },
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": 3267517989416174129
+              },
+              "m_TargetAssemblyTypeName": "",
+              "m_MethodName": "SetActive",
+              "m_Mode": 6,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 0.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 1
+              },
+              "m_CallState": 2
+            },
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": 8811961651843935769
+              },
+              "m_TargetAssemblyTypeName": "",
+              "m_MethodName": "SetActive",
+              "m_Mode": 6,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 0.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 1
+              },
+              "m_CallState": 2
+            },
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": -1648190621811124649
+              },
+              "m_TargetAssemblyTypeName": "",
+              "m_MethodName": "SetProperty",
+              "m_Mode": 4,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 1.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 1
+              },
+              "m_CallState": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "Context": 1,
+      "Event": {
+        "m_PersistentCalls": {
+          "m_Calls": [
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": -5659592308303771430
+              },
+              "m_TargetAssemblyTypeName": "",
+              "m_MethodName": "SetActive",
+              "m_Mode": 6,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 0.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 1
+              },
+              "m_CallState": 2
+            },
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": -787700359285765456
+              },
+              "m_TargetAssemblyTypeName": "",
+              "m_MethodName": "SetActive",
+              "m_Mode": 6,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 0.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 0
+              },
+              "m_CallState": 2
+            },
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": 3267517989416174129
+              },
+              "m_TargetAssemblyTypeName": "",
+              "m_MethodName": "SetActive",
+              "m_Mode": 6,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 0.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 0
+              },
+              "m_CallState": 2
+            },
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": 8811961651843935769
+              },
+              "m_TargetAssemblyTypeName": "",
+              "m_MethodName": "SetActive",
+              "m_Mode": 6,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 0.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 0
+              },
+              "m_CallState": 2
+            },
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": -1648190621811124649
+              },
+              "m_TargetAssemblyTypeName": "",
+              "m_MethodName": "SetProperty",
+              "m_Mode": 4,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 0.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 0
+              },
+              "m_CallState": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "Context": 2,
+      "Event": {
+        "m_PersistentCalls": {
+          "m_Calls": [
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": -5659592308303771430
+              },
+              "m_TargetAssemblyTypeName": "",
+              "m_MethodName": "SetActive",
+              "m_Mode": 6,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 0.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 1
+              },
+              "m_CallState": 2
+            },
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": -787700359285765456
+              },
+              "m_TargetAssemblyTypeName": "",
+              "m_MethodName": "SetActive",
+              "m_Mode": 6,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 0.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 0
+              },
+              "m_CallState": 2
+            },
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": 3267517989416174129
+              },
+              "m_TargetAssemblyTypeName": "",
+              "m_MethodName": "SetActive",
+              "m_Mode": 6,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 0.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 0
+              },
+              "m_CallState": 2
+            },
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": 8811961651843935769
+              },
+              "m_TargetAssemblyTypeName": "",
+              "m_MethodName": "SetActive",
+              "m_Mode": 6,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 0.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 0
+              },
+              "m_CallState": 2
+            },
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": -1648190621811124649
+              },
+              "m_TargetAssemblyTypeName": "",
+              "m_MethodName": "SetProperty",
+              "m_Mode": 4,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 0.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 0
+              },
+              "m_CallState": 2
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
