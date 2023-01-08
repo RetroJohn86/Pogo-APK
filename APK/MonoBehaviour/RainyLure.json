@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2166399336556568252
+  },
+  "m_Name": "RainyLure",
+  "ForItem": 505,
+  "NameKey": "item_troy_disk_rainy_name",
+  "DescriptionKey": "item_troy_disk_rainy_desc",
+  "SlotIcon": {
+    "m_FileID": 0,
+    "m_PathID": -4472287745007628439
+  },
+  "InventoryIcon": {
+    "m_FileID": 0,
+    "m_PathID": 7301339319876495570
+  },
+  "InventoryIconMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 8896395110866422935
+  },
+  "EvolveButtonIcon": {
+    "m_FileID": 0,
+    "m_PathID": 7301339319876495570
+  },
+  "EvolveButtonIconMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 8896395110866422935
+  },
+  "StoreIcons": [
+    {
+      "IapSku": "lurerainy.1",
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": 7301339319876495570
+      }
+    }
+  ],
+  "PoiActiveEffect": {
+    "m_FileID": 0,
+    "m_PathID": 4663563005957367194
+  }
+}

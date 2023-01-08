@@ -1,0 +1,61 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4794880311605744042
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8058318836095832602
+  },
+  "m_Name": "",
+  "customBackButtonEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "hideWorldMapBehindGui": 0,
+  "hidesPreviousGuis": 1,
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -8318990250105551752
+  },
+  "layer": 800,
+  "depth": 1,
+  "overrideSortingOrder": 0,
+  "customSortingOrder": 0,
+  "transitionsBlockInput": 1,
+  "backButtonResponse": 0,
+  "referralWelcomePage": {
+    "m_FileID": 0,
+    "m_PathID": -8337455410465389738
+  },
+  "enterCodePage": {
+    "m_FileID": 0,
+    "m_PathID": -1295772889418860803
+  },
+  "tabScroller": {
+    "m_FileID": 0,
+    "m_PathID": -1052123368545421512
+  },
+  "backgroundVisibilityController": {
+    "m_FileID": 0,
+    "m_PathID": 4023994967613479148
+  },
+  "backgroundImageForNewPlayers": {
+    "m_FileID": 0,
+    "m_PathID": 9097029507388232110
+  },
+  "tintColor": {
+    "r": 0.39215687,
+    "g": 0.39215687,
+    "b": 0.39215687,
+    "a": 1.0
+  },
+  "guiCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 1859347540932888026
+  },
+  "guiTransitionDurationSec": 0.5,
+  "welcomePauseDurationSec": 2.0
+}
