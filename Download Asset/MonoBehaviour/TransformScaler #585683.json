@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5945037869709605120
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8952186831206202103
+  },
+  "m_Name": "",
+  "_transforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -9207975074176557652
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6935179527829035243
+    }
+  ]
+}

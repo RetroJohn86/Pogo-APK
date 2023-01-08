@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3609836089480898569
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -607844481681080753
+  },
+  "m_Name": "",
+  "driverJoint": {
+    "m_FileID": 0,
+    "m_PathID": 7585053873683916991
+  },
+  "axis": 1,
+  "magnitude": 100.0,
+  "layerName": "Ambient",
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": 1811180026047062068
+  }
+}

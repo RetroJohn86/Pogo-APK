@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5281602816032090773
+  },
+  "m_Name": "pm77.glowConfig",
+  "GlowColor": {
+    "r": 1.0,
+    "g": 0.4,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "ShinyGlowColor": {
+    "r": 0.0,
+    "g": 0.22655034,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "GlowScale": 1.5,
+  "FlickerAmount": 0.05,
+  "FlickerSpeed": 8.0,
+  "FadeDistance": 2.5,
+  "FadeScale": 0.5,
+  "FadeAlpha": 0.0
+}
