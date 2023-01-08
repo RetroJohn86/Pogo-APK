@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6647326547753062198
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8971004633771286708
+  },
+  "m_Name": "",
+  "customBackButtonEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "hideWorldMapBehindGui": 0,
+  "hidesPreviousGuis": 0,
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "layer": 300,
+  "depth": 1,
+  "overrideSortingOrder": 0,
+  "customSortingOrder": 0,
+  "transitionsBlockInput": 1,
+  "backButtonResponse": 1,
+  "textLevel": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5162499469745050092
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4627260782509706766
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8741270557978302961
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3670622847087206865
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3409146343648074643
+    }
+  ],
+  "levelUpMusicReference": {
+    "m_AssetGUID": "5efb73271e06fe046a64fd66a4ead079",
+    "m_SubObjectName": "",
+    "m_SubObjectType": ""
+  },
+  "showRewardsDelay": 3.0
+}

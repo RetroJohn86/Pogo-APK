@@ -1,0 +1,105 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3083436914277250177
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3980648627358443743
+  },
+  "m_Name": "",
+  "despawnHeight": 120.0,
+  "despawnKillHeight": 60.0,
+  "exitFxGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7659561065550138072
+  },
+  "transitionFxGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "shadowRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 7259913475214728079
+  },
+  "shadowMeshFilter": {
+    "m_FileID": 0,
+    "m_PathID": 6503262265934309470
+  },
+  "shadowOpacityByHeightCurve": {
+    "m_Curve": [
+      {
+        "time": 40.0,
+        "value": 0.2,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 3,
+        "inWeight": 0.33333334,
+        "outWeight": 0.120853044
+      },
+      {
+        "time": 60.0,
+        "value": 0.0,
+        "inSlope": -0.01105416,
+        "outSlope": -0.01105416,
+        "weightedMode": 0,
+        "inWeight": 0.050947953,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "shadowThicknessByHeightCurve": {
+    "m_Curve": [
+      {
+        "time": 40.0,
+        "value": 5.0,
+        "inSlope": -0.29898775,
+        "outSlope": -0.29898775,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.04502373
+      },
+      {
+        "time": 60.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.071090125,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "shadowScaleByHeightCurve": {
+    "m_Curve": [
+      {
+        "time": 30.0,
+        "value": 60.0,
+        "inSlope": 0.9484622,
+        "outSlope": 0.9484622,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.041607667
+      },
+      {
+        "time": 60.0,
+        "value": 250.0,
+        "inSlope": 75.74355,
+        "outSlope": 75.74355,
+        "weightedMode": 3,
+        "inWeight": 0.04502373,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

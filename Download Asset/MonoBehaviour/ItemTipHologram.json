@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5787642038160525970
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1210163708989074681
+  },
+  "m_Name": "",
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 1571861499961462468
+  },
+  "itemImage": {
+    "m_FileID": 0,
+    "m_PathID": -3959017334017636516
+  },
+  "hologramNoBackgroundMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 7810567069027552607
+  }
+}

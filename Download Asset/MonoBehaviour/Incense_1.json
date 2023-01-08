@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1882622211874646718
+  },
+  "m_Name": "Incense_1",
+  "sprite": {
+    "m_FileID": 1,
+    "m_PathID": -7497376712968305571
+  },
+  "mediumBundleSprite": {
+    "m_FileID": 1,
+    "m_PathID": 6551967187093170536
+  },
+  "largeBundleSprite": {
+    "m_FileID": 1,
+    "m_PathID": 999601909455632211
+  },
+  "playerFxPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 4645445505056253050
+  },
+  "pokemonFxPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 1992022903982408815
+  }
+}
