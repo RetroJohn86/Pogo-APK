@@ -1,0 +1,105 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2050653930843375187
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3192825908726547534
+  },
+  "m_Name": "",
+  "customBackButtonEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "hideWorldMapBehindGui": 0,
+  "hidesPreviousGuis": 0,
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 9190716063203496555
+  },
+  "layer": 300,
+  "depth": 1,
+  "overrideSortingOrder": 0,
+  "customSortingOrder": 0,
+  "transitionsBlockInput": 1,
+  "backButtonResponse": 1,
+  "usernameInput": {
+    "m_FileID": 0,
+    "m_PathID": -6603586091399045283
+  },
+  "passwordInput": {
+    "m_FileID": 0,
+    "m_PathID": 2992402579170329579
+  },
+  "submitButton": {
+    "m_FileID": 0,
+    "m_PathID": 6843399706488671730
+  },
+  "titleText": {
+    "m_FileID": 0,
+    "m_PathID": -6004508087786889789
+  },
+  "registerText": {
+    "m_FileID": 0,
+    "m_PathID": -1708019128540223250
+  },
+  "registerLinkText": {
+    "m_FileID": 0,
+    "m_PathID": 1171461072181412179
+  },
+  "specialBackground": {
+    "m_FileID": 0,
+    "m_PathID": -1682749921080714931
+  },
+  "registerObject": {
+    "m_FileID": 0,
+    "m_PathID": 956435168976984781
+  },
+  "forgottenObject": {
+    "m_FileID": 0,
+    "m_PathID": -3394960642580238782
+  },
+  "forgottenUserNameText": {
+    "m_FileID": 0,
+    "m_PathID": 3192040610092706224
+  },
+  "forgottenPasswordText": {
+    "m_FileID": 0,
+    "m_PathID": -3142367731126925465
+  },
+  "forgottenTextDefaultColor": {
+    "r": 0.14117648,
+    "g": 0.8,
+    "b": 0.6666667,
+    "a": 1.0
+  },
+  "forgottenTextSuperAwesomeColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "registerLinkTextDefaultColor": {
+    "r": 0.14117648,
+    "g": 0.8,
+    "b": 0.6666667,
+    "a": 1.0
+  },
+  "registerLinkTextDefaultFont": {
+    "m_FileID": 2,
+    "m_PathID": 3961234815876835176
+  },
+  "registerLinkTextSuperAwesomeColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "registerLinkTextSuperAwesomeFont": {
+    "m_FileID": 2,
+    "m_PathID": 2860406857874628123
+  }
+}
