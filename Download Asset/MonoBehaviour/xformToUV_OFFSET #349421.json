@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1847231032711895537
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1807076637517768406
+  },
+  "m_Name": "",
+  "driverJoints": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2592145866260503011
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8435988736673457507
+    }
+  ],
+  "jointCountOffset": 0,
+  "drivenMat": {
+    "m_FileID": 0,
+    "m_PathID": -8873810295347026371
+  },
+  "uvFrames": {
+    "x": 2.0,
+    "y": 8.0,
+    "z": 4.0
+  },
+  "uvOffsetRenderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2973529072805403650
+    }
+  ],
+  "pokemonModel": {
+    "m_FileID": 0,
+    "m_PathID": 4478733745651834150
+  },
+  "overrideFaceAnimation": 1,
+  "angryFaceJointYPositionOverride": 0.4,
+  "smileFaceJointYPosition": 0.5,
+  "mouthDriverJoint": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "angryMouthJointPositionOverride": 0.0
+}

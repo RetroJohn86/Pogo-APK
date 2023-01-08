@@ -1,0 +1,70 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 435748734164348065
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1807076637517768406
+  },
+  "m_Name": "",
+  "driverJoints": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7938931900796502240
+    }
+  ],
+  "jointCountOffset": 0,
+  "drivenMat": {
+    "m_FileID": 0,
+    "m_PathID": 8532865125591453403
+  },
+  "uvFrames": {
+    "x": 2.0,
+    "y": 8.0,
+    "z": 2.0
+  },
+  "uvOffsetRenderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8570115243726563288
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2608081440993168469
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1867231604897242868
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -666428332994934833
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7231586515764053518
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5090531853536674661
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -167746379175558420
+    }
+  ],
+  "pokemonModel": {
+    "m_FileID": 0,
+    "m_PathID": 4316285713565799934
+  },
+  "overrideFaceAnimation": 1,
+  "angryFaceJointYPositionOverride": 0.4,
+  "smileFaceJointYPosition": 0.5,
+  "mouthDriverJoint": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "angryMouthJointPositionOverride": 0.0
+}

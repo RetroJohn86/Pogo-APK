@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6958765846274103626
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5380523371815193314
+  },
+  "m_Name": "",
+  "drivenMat": {
+    "m_FileID": 0,
+    "m_PathID": 7985738801626190620
+  },
+  "speed": 0.3,
+  "modulo": 1.7,
+  "smooth": 0.7,
+  "lengthAtOnce": 0.25
+}

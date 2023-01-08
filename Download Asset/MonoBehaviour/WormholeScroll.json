@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4534832866172075210
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1666444593255039167
+  },
+  "m_Name": "",
+  "colorScrollSpeed": 0.05,
+  "gridScrollSpeed": 0.5,
+  "mRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -4064484099721657822
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7447792677839319854
+  },
+  "m_Name": "xm_uv0_B_DIRECT_py",
+  "driverTransform": "_jnt_UV2",
+  "axis": 1,
+  "transformType": 1,
+  "spaceType": 0,
+  "propertyBlocks": [
+    {
+      "drivenProperty": "_uv0_B",
+      "magnitude": 10.0,
+      "min": 0.0,
+      "max": 10.0,
+      "DrawerIsVector": 0
+    }
+  ],
+  "blockType": 1,
+  "uvType": 4,
+  "uvColumns": 2,
+  "uvRows": 4,
+  "uvSets": 1,
+  "uvIsStepped": 1
+}
