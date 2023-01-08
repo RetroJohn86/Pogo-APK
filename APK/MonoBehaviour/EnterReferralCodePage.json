@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -80879917168098027
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9163314346828300659
+  },
+  "m_Name": "",
+  "inputField": {
+    "m_FileID": 0,
+    "m_PathID": -6941305986113010460
+  },
+  "backButton": {
+    "m_FileID": 0,
+    "m_PathID": -3260110758757374437
+  },
+  "submitButton": {
+    "m_FileID": 0,
+    "m_PathID": -4278918387939710941
+  },
+  "skipButton": {
+    "m_FileID": 0,
+    "m_PathID": -3640751248508641353
+  },
+  "fillReferralCodeButton": {
+    "m_FileID": 0,
+    "m_PathID": 3580073362327765448
+  },
+  "additionalInfoText": {
+    "m_FileID": 0,
+    "m_PathID": -6538313944368803567
+  },
+  "waitingForReferralCodeText": {
+    "m_FileID": 0,
+    "m_PathID": -8621898814162902389
+  },
+  "waitingForReferralCodeDotAnimationDelaySeconds": 0.5,
+  "waitingForReferralCodeSection": {
+    "m_FileID": 0,
+    "m_PathID": -7218918185462707788
+  },
+  "fillReferralCodeSection": {
+    "m_FileID": 0,
+    "m_PathID": 250333804301831805
+  }
+}

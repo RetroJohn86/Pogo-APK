@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 705879670041306650
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3101860978712645000
+  },
+  "m_Name": "",
+  "customBackButtonEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "hideWorldMapBehindGui": 0,
+  "hidesPreviousGuis": 0,
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "layer": 800,
+  "depth": 1,
+  "overrideSortingOrder": 0,
+  "customSortingOrder": 0,
+  "transitionsBlockInput": 1,
+  "backButtonResponse": 0,
+  "messageText": {
+    "m_FileID": 0,
+    "m_PathID": -5213491555977445225
+  },
+  "errorSound": {
+    "m_FileID": 0,
+    "m_PathID": 3496530184068526352
+  },
+  "dismissSound": {
+    "m_FileID": 3,
+    "m_PathID": 8946993465580724914
+  }
+}

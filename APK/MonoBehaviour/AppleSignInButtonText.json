@@ -1,0 +1,102 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1117975247113372520
+  },
+  "m_Name": "AppleSignInButtonText",
+  "defaultSprite": {
+    "m_FileID": 0,
+    "m_PathID": -3477898777313335275
+  },
+  "mappings": [
+    {
+      "Locale": "de-DE",
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": -5360538721977547155
+      }
+    },
+    {
+      "Locale": "es-ES",
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": -3306563930461995728
+      }
+    },
+    {
+      "Locale": "fr-FR",
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": 7720693871092888090
+      }
+    },
+    {
+      "Locale": "it-IT",
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": -197846183950546104
+      }
+    },
+    {
+      "Locale": "ja-JP",
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": 9144298671102850401
+      }
+    },
+    {
+      "Locale": "ko-KR",
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": 7425960452162691582
+      }
+    },
+    {
+      "Locale": "pt-BR",
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": -4756974786290428556
+      }
+    },
+    {
+      "Locale": "zh-TW",
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": -3022749809487391653
+      }
+    },
+    {
+      "Locale": "th-TH",
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": -2588776581490247740
+      }
+    },
+    {
+      "Locale": "ru-RU",
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": 2503099673451449605
+      }
+    },
+    {
+      "Locale": "tr-TR",
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": 2438503925637578914
+      }
+    },
+    {
+      "Locale": "in-IN",
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": 65855002418425167
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9145688103510560173
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4317599467556551682
+  },
+  "m_Name": "",
+  "customBackButtonEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "hideWorldMapBehindGui": 0,
+  "hidesPreviousGuis": 0,
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 6400382146370197072
+  },
+  "layer": 300,
+  "depth": 0,
+  "overrideSortingOrder": 0,
+  "customSortingOrder": 0,
+  "transitionsBlockInput": 1,
+  "backButtonResponse": 0,
+  "splashRoot": {
+    "m_FileID": 0,
+    "m_PathID": -2601954470774983509
+  },
+  "signOutButton": {
+    "m_FileID": 0,
+    "m_PathID": -8202537724838522115
+  },
+  "loadingBar": {
+    "m_FileID": 0,
+    "m_PathID": 8090923338876394626
+  },
+  "tipsText": {
+    "m_FileID": 0,
+    "m_PathID": 3872851675919825964
+  },
+  "progressBarBackgroundImage": {
+    "m_FileID": 0,
+    "m_PathID": -7850734363740602043
+  },
+  "progressBarImage": {
+    "m_FileID": 0,
+    "m_PathID": -3673656260195016537
+  },
+  "progressBarGradientImage": {
+    "m_FileID": 0,
+    "m_PathID": 4817604184800993054
+  },
+  "specialWarningText": {
+    "m_FileID": 0,
+    "m_PathID": 616993486932425354
+  },
+  "randomizedTipStringKeys": [
+    "tips_loading_screen_golden_razz_gym",
+    "tips_loading_screen_curveball_chance",
+    "tips_loading_screen_raid_party_prep",
+    "tips_loading_screen_discard_all_items",
+    "tips_loading_screen_daily_raid_pass",
+    "tips_loading_screen_battle_switch_charged_move"
+  ]
+}
