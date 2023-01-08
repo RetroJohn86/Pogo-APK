@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2166399336556568252
+  },
+  "m_Name": "DefaultLure",
+  "ForItem": 501,
+  "NameKey": "item_troy_disk_name",
+  "DescriptionKey": "item_troy_disk_desc",
+  "SlotIcon": {
+    "m_AssetGUID": "77ae321d2e3774b63947dcc7718b5f1a",
+    "m_SubObjectName": "TroyKeyVector",
+    "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "InventoryIcon": {
+    "m_AssetGUID": "18ee754af22ea4a7eb706da3a17b98bc",
+    "m_SubObjectName": "TroyKey",
+    "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "EvolveButtonIcon": {
+    "m_AssetGUID": "18ee754af22ea4a7eb706da3a17b98bc",
+    "m_SubObjectName": "TroyKey",
+    "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "PoiActiveEffect": {
+    "m_FileID": 0,
+    "m_PathID": -596600082640467208
+  },
+  "PoiFarAirEffectImageAddress": "tx_petal_cascade_far",
+  "PoiFarEffectSecondaryImageAddress": "0"
+}

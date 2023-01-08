@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8299256107454695805
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9040467286693443951
+  },
+  "m_Name": "",
+  "type": 1,
+  "targetCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -2389880213101605509
+  },
+  "startAlpha": 0.0,
+  "endAlpha": 1.0,
+  "fadeCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0083351135,
+        "value": 1.0023499,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.012494,
+        "value": 0.004715398,
+        "inSlope": -0.5498914,
+        "outSlope": -0.5498914,
+        "weightedMode": 0,
+        "inWeight": 0.14343919,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "duration": 0.25
+}

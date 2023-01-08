@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6250764709101631656
+  },
+  "m_Name": "BuddyMusic",
+  "Clip": {
+    "m_FileID": 0,
+    "m_PathID": 2375674519502075521
+  },
+  "Volume": 1.0,
+  "FadeOutTime": 2.0,
+  "FadeInTime": 1.0,
+  "Looping": 1,
+  "LoopStart": 2.4,
+  "LoopEnd": 59.976,
+  "StartTimes": [
+    0.0,
+    36.1,
+    50.06
+  ]
+}

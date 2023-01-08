@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6250764709101631656
+  },
+  "m_Name": "EvolveMusic",
+  "Clip": {
+    "m_FileID": 0,
+    "m_PathID": 2632913278124234805
+  },
+  "Volume": 1.0,
+  "FadeOutTime": 2.0,
+  "FadeInTime": 0.0,
+  "Looping": 1,
+  "LoopStart": 0.428,
+  "LoopEnd": 0.0,
+  "StartTimes": []
+}

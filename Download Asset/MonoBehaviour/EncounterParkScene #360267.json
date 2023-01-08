@@ -1,0 +1,1118 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7404487907482276258
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1202529741558131064
+  },
+  "m_Name": "",
+  "meshRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 4964272117627041232
+  },
+  "extraMeshRenderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7528229805065911434
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2409638640604973883
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1915614353085370419
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 254061873109290352
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5668853093890634407
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7215884236126340118
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6933646439211481172
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7837476554282120092
+    }
+  ],
+  "baseDaySettings": {
+    "textureReference": {
+      "assetGuid": "",
+      "assetType": "",
+      "resourcePath": ""
+    },
+    "useAddressableTexture": 0,
+    "textureAsset": {
+      "m_AssetGUID": "",
+      "m_SubObjectName": "",
+      "m_SubObjectType": ""
+    },
+    "tintGradient": {
+      "key0": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.8627451,
+        "g": 0.9192453,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.5882353,
+        "g": 0.6784314,
+        "b": 0.8980392,
+        "a": 0.0
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 65150,
+      "ctime2": 65535,
+      "ctime3": 0,
+      "ctime4": 0,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 65535,
+      "atime2": 0,
+      "atime3": 0,
+      "atime4": 0,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 2,
+      "m_NumAlphaKeys": 2
+    },
+    "addGradient": {
+      "key0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 1.0,
+        "g": 0.79155296,
+        "b": 0.25943398,
+        "a": 0.0
+      },
+      "key3": {
+        "r": 1.0,
+        "g": 0.79155296,
+        "b": 0.25943398,
+        "a": 0.0
+      },
+      "key4": {
+        "r": 1.0,
+        "g": 0.79155296,
+        "b": 0.25943398,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 65535,
+      "ctime2": 65535,
+      "ctime3": 65535,
+      "ctime4": 65535,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 65535,
+      "atime2": 0,
+      "atime3": 0,
+      "atime4": 0,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 2,
+      "m_NumAlphaKeys": 2
+    },
+    "saturationCurve": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inSlope": -0.3,
+          "outSlope": -0.3,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.33333334
+        },
+        {
+          "time": 1.0,
+          "value": 0.7,
+          "inSlope": -0.3,
+          "outSlope": -0.3,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.33333334
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 0
+    }
+  },
+  "rainyDaySettings": {
+    "textureReference": {
+      "assetGuid": "",
+      "assetType": "",
+      "resourcePath": ""
+    },
+    "useAddressableTexture": 0,
+    "textureAsset": {
+      "m_AssetGUID": "",
+      "m_SubObjectName": "",
+      "m_SubObjectType": ""
+    },
+    "tintGradient": {
+      "key0": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.5882353,
+        "g": 0.7532716,
+        "b": 0.8980392,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 65535,
+      "ctime2": 0,
+      "ctime3": 0,
+      "ctime4": 0,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 65535,
+      "atime2": 0,
+      "atime3": 0,
+      "atime4": 0,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 2,
+      "m_NumAlphaKeys": 2
+    },
+    "addGradient": {
+      "key0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 65535,
+      "ctime2": 0,
+      "ctime3": 0,
+      "ctime4": 0,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 65535,
+      "atime2": 0,
+      "atime3": 0,
+      "atime4": 0,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 2,
+      "m_NumAlphaKeys": 2
+    },
+    "saturationCurve": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inSlope": -0.5,
+          "outSlope": -0.5,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.33333334
+        },
+        {
+          "time": 1.0,
+          "value": 0.5,
+          "inSlope": -0.5,
+          "outSlope": -0.5,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.33333334
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 0
+    }
+  },
+  "snowyDaySettings": {
+    "textureReference": {
+      "assetGuid": "",
+      "assetType": "",
+      "resourcePath": ""
+    },
+    "useAddressableTexture": 0,
+    "textureAsset": {
+      "m_AssetGUID": "",
+      "m_SubObjectName": "",
+      "m_SubObjectType": ""
+    },
+    "tintGradient": {
+      "key0": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.5855287,
+        "g": 0.72320676,
+        "b": 0.8113208,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 65535,
+      "ctime2": 0,
+      "ctime3": 0,
+      "ctime4": 0,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 65535,
+      "atime2": 0,
+      "atime3": 0,
+      "atime4": 0,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 2,
+      "m_NumAlphaKeys": 2
+    },
+    "addGradient": {
+      "key0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.11434904,
+        "g": 0.110629685,
+        "b": 0.1102941,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 65535,
+      "ctime2": 0,
+      "ctime3": 0,
+      "ctime4": 0,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 65535,
+      "atime2": 0,
+      "atime3": 0,
+      "atime4": 0,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 2,
+      "m_NumAlphaKeys": 2
+    },
+    "saturationCurve": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inSlope": -0.5,
+          "outSlope": -0.5,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.33333334
+        },
+        {
+          "time": 1.0,
+          "value": 0.5,
+          "inSlope": -0.5,
+          "outSlope": -0.5,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.33333334
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 0
+    }
+  },
+  "baseNightSettings": {
+    "textureReference": {
+      "assetGuid": "",
+      "assetType": "",
+      "resourcePath": ""
+    },
+    "useAddressableTexture": 0,
+    "textureAsset": {
+      "m_AssetGUID": "",
+      "m_SubObjectName": "",
+      "m_SubObjectType": ""
+    },
+    "tintGradient": {
+      "key0": {
+        "r": 0.27612138,
+        "g": 0.3805285,
+        "b": 0.8018868,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.17644179,
+        "g": 0.28683317,
+        "b": 0.6132076,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 65342,
+      "ctime2": 0,
+      "ctime3": 0,
+      "ctime4": 0,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 65535,
+      "atime2": 0,
+      "atime3": 0,
+      "atime4": 0,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 2,
+      "m_NumAlphaKeys": 2
+    },
+    "addGradient": {
+      "key0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 65535,
+      "ctime2": 0,
+      "ctime3": 0,
+      "ctime4": 0,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 65535,
+      "atime2": 0,
+      "atime3": 0,
+      "atime4": 0,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 2,
+      "m_NumAlphaKeys": 2
+    },
+    "saturationCurve": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.6,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.33333334
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 0
+    }
+  },
+  "rainyNightSettings": {
+    "textureReference": {
+      "assetGuid": "",
+      "assetType": "",
+      "resourcePath": ""
+    },
+    "useAddressableTexture": 0,
+    "textureAsset": {
+      "m_AssetGUID": "",
+      "m_SubObjectName": "",
+      "m_SubObjectType": ""
+    },
+    "tintGradient": {
+      "key0": {
+        "r": 0.35248306,
+        "g": 0.45063794,
+        "b": 0.8396226,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.18009079,
+        "g": 0.27079082,
+        "b": 0.5377358,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 65535,
+      "ctime2": 0,
+      "ctime3": 0,
+      "ctime4": 0,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 65535,
+      "atime2": 0,
+      "atime3": 0,
+      "atime4": 0,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 2,
+      "m_NumAlphaKeys": 2
+    },
+    "addGradient": {
+      "key0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 65535,
+      "ctime2": 0,
+      "ctime3": 0,
+      "ctime4": 0,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 65535,
+      "atime2": 0,
+      "atime3": 0,
+      "atime4": 0,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 2,
+      "m_NumAlphaKeys": 2
+    },
+    "saturationCurve": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.6,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.33333334
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 0
+    }
+  },
+  "snowyNightSettings": {
+    "textureReference": {
+      "assetGuid": "",
+      "assetType": "",
+      "resourcePath": ""
+    },
+    "useAddressableTexture": 0,
+    "textureAsset": {
+      "m_AssetGUID": "",
+      "m_SubObjectName": "",
+      "m_SubObjectType": ""
+    },
+    "tintGradient": {
+      "key0": {
+        "r": 0.37673548,
+        "g": 0.50857097,
+        "b": 0.9622642,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.1014151,
+        "g": 0.19606915,
+        "b": 0.4056604,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 65535,
+      "ctime2": 0,
+      "ctime3": 0,
+      "ctime4": 0,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 65535,
+      "atime2": 0,
+      "atime3": 0,
+      "atime4": 0,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 2,
+      "m_NumAlphaKeys": 2
+    },
+    "addGradient": {
+      "key0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.09558821,
+        "g": 0.09558821,
+        "b": 0.09558821,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 65535,
+      "ctime2": 0,
+      "ctime3": 0,
+      "ctime4": 0,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 65535,
+      "atime2": 0,
+      "atime3": 0,
+      "atime4": 0,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 2,
+      "m_NumAlphaKeys": 2
+    },
+    "saturationCurve": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.6,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.33333334
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 0
+    }
+  },
+  "skydomeYOffset": 50.0,
+  "rainFxPrefabReferences": [
+    {
+      "m_AssetGUID": "9a001b5765a8b462f9390eb96c598dcb",
+      "m_SubObjectName": "",
+      "m_SubObjectType": ""
+    },
+    {
+      "m_AssetGUID": "feee56df514fd4977a203e730c312765",
+      "m_SubObjectName": "",
+      "m_SubObjectType": ""
+    },
+    {
+      "m_AssetGUID": "234555c9aabc14f4b9f7994988102ac7",
+      "m_SubObjectName": "",
+      "m_SubObjectType": ""
+    }
+  ],
+  "snowFxPrefabReferences": [
+    {
+      "m_AssetGUID": "a95f49fd6690f4760a2acf22070d1599",
+      "m_SubObjectName": "",
+      "m_SubObjectType": ""
+    },
+    {
+      "m_AssetGUID": "adb26efa78a2c4b6f9e2c955d0462bbb",
+      "m_SubObjectName": "",
+      "m_SubObjectType": ""
+    },
+    {
+      "m_AssetGUID": "7e07f110f76a24584b2415601228254d",
+      "m_SubObjectName": "",
+      "m_SubObjectType": ""
+    }
+  ],
+  "_pokemonPositioner": {
+    "m_FileID": 0,
+    "m_PathID": -368539170203598579
+  }
+}

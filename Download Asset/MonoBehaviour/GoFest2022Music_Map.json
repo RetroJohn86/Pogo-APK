@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6250764709101631656
+  },
+  "m_Name": "GoFest2022Music_Map",
+  "Clip": {
+    "m_FileID": 0,
+    "m_PathID": -2743198623609069553
+  },
+  "Volume": 1.0,
+  "FadeOutTime": 0.25,
+  "FadeInTime": 1.0,
+  "Looping": 1,
+  "LoopStart": 35.652,
+  "LoopEnd": 146.956,
+  "StartTimes": [
+    0.869,
+    21.739,
+    49.565,
+    70.434,
+    112.173
+  ]
+}

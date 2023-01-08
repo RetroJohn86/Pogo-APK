@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2731663783245026305
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3902306651609856620
+  },
+  "m_Name": "",
+  "giftBoxAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 7823087772733001001
+  },
+  "idleParticle": {
+    "m_FileID": 0,
+    "m_PathID": 7798200698682453882
+  },
+  "openParticle": {
+    "m_FileID": 0,
+    "m_PathID": -3848238488261537170
+  },
+  "sendParticle": {
+    "m_FileID": 0,
+    "m_PathID": -7801710459862559488
+  }
+}

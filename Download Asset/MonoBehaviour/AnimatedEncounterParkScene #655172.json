@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7934730140927695806
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6575013516702317456
+  },
+  "m_Name": "",
+  "_animator": {
+    "m_FileID": 0,
+    "m_PathID": -4176751638541973109
+  },
+  "_usesCustomColliders": 1,
+  "_pokemonPositioner": {
+    "m_FileID": 0,
+    "m_PathID": -8946682801627037496
+  },
+  "_animatedCamStartTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_animatedCamStartTarget": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

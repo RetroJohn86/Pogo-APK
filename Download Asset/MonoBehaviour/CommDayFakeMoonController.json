@@ -1,0 +1,74 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9114641177688923634
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1793068092572411511
+  },
+  "m_Name": "",
+  "moonRoot": {
+    "m_FileID": 0,
+    "m_PathID": 8834757731357840870
+  },
+  "moonTransform": {
+    "m_FileID": 0,
+    "m_PathID": -8447773037298880722
+  },
+  "moonArcCurve": {
+    "m_Curve": [
+      {
+        "time": -4.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 8.0,
+        "value": 0.0,
+        "inSlope": -0.1320827,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.10335064,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 12.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.2050801,
+        "weightedMode": 0,
+        "inWeight": 0.15212478,
+        "outWeight": 0.10900034
+      },
+      {
+        "time": 20.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 32.0,
+        "value": 0.0,
+        "inSlope": -0.14608632,
+        "outSlope": -0.14608632,
+        "weightedMode": 0,
+        "inWeight": 0.087976076,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "moonMinimumHeight": -20.0,
+  "moonMaximumHeight": 45.0
+}

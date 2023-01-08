@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6250764709101631656
+  },
+  "m_Name": "GoTour2022Music00",
+  "Clip": {
+    "m_FileID": 0,
+    "m_PathID": -7110197963436568743
+  },
+  "Volume": 1.0,
+  "FadeOutTime": 0.25,
+  "FadeInTime": 2.0,
+  "Looping": 1,
+  "LoopStart": 28.656,
+  "LoopEnd": 149.77,
+  "StartTimes": [
+    0.6,
+    49.228,
+    83.513,
+    110.942,
+    126.038
+  ]
+}

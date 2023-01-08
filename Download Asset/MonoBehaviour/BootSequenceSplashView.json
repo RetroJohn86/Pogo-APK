@@ -1,0 +1,110 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6389774636049999984
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1465608077399527305
+  },
+  "m_Name": "",
+  "SplashImage": {
+    "m_FileID": 0,
+    "m_PathID": 4904445307364261150
+  },
+  "FadeInDuration": 0.3,
+  "FadeInGradient": {
+    "key0": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 0.0
+    },
+    "key1": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "key2": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "key3": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "key4": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "key5": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "key6": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "key7": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "ctime0": 0,
+    "ctime1": 65535,
+    "ctime2": 0,
+    "ctime3": 0,
+    "ctime4": 0,
+    "ctime5": 0,
+    "ctime6": 0,
+    "ctime7": 0,
+    "atime0": 0,
+    "atime1": 65535,
+    "atime2": 0,
+    "atime3": 0,
+    "atime4": 0,
+    "atime5": 0,
+    "atime6": 0,
+    "atime7": 0,
+    "m_Mode": 0,
+    "m_NumColorKeys": 2,
+    "m_NumAlphaKeys": 2
+  },
+  "WarningTextColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "ProgressBarBackgroundColor": {
+    "r": 0.9764706,
+    "g": 0.8509804,
+    "b": 0.32156864,
+    "a": 1.0
+  },
+  "ProgressBarMainColor": {
+    "r": 0.972549,
+    "g": 0.6784314,
+    "b": 0.24313726,
+    "a": 1.0
+  },
+  "ProgressBarGradientColor": {
+    "r": 0.9882353,
+    "g": 0.8901961,
+    "b": 0.40784314,
+    "a": 0.101960786
+  }
+}
