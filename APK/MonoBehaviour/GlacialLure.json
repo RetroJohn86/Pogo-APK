@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2166399336556568252
+  },
+  "m_Name": "GlacialLure",
+  "ForItem": 502,
+  "NameKey": "item_troy_disk_glacial_name",
+  "DescriptionKey": "item_troy_disk_glacial_desc",
+  "SlotIcon": {
+    "m_FileID": 0,
+    "m_PathID": -4472287745007628439
+  },
+  "InventoryIcon": {
+    "m_FileID": 0,
+    "m_PathID": -3056042155653762129
+  },
+  "InventoryIconMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 8896395110866422935
+  },
+  "EvolveButtonIcon": {
+    "m_FileID": 0,
+    "m_PathID": -3056042155653762129
+  },
+  "EvolveButtonIconMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 8896395110866422935
+  },
+  "StoreIcons": [
+    {
+      "IapSku": "lureglacial.1",
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": -3056042155653762129
+      }
+    }
+  ],
+  "PoiActiveEffect": {
+    "m_FileID": 0,
+    "m_PathID": -8305028332508612384
+  }
+}
