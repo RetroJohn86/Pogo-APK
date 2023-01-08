@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2166399336556568252
+  },
+  "m_Name": "MagneticLure",
+  "ForItem": 504,
+  "NameKey": "item_troy_disk_magnetic_name",
+  "DescriptionKey": "item_troy_disk_magnetic_desc",
+  "SlotIcon": {
+    "m_FileID": 0,
+    "m_PathID": -4472287745007628439
+  },
+  "InventoryIcon": {
+    "m_FileID": 0,
+    "m_PathID": -5403908963169814252
+  },
+  "InventoryIconMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 8896395110866422935
+  },
+  "EvolveButtonIcon": {
+    "m_FileID": 0,
+    "m_PathID": -5403908963169814252
+  },
+  "EvolveButtonIconMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 8896395110866422935
+  },
+  "StoreIcons": [
+    {
+      "IapSku": "luremagnetic.1",
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": -5403908963169814252
+      }
+    }
+  ],
+  "PoiActiveEffect": {
+    "m_FileID": 0,
+    "m_PathID": 9191466461715129185
+  }
+}

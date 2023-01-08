@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6669092410645904618
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8934088971446675788
+  },
+  "m_Name": "",
+  "expireTime": 2.0,
+  "airParticles": {
+    "m_FileID": 0,
+    "m_PathID": 3864651448208711068
+  },
+  "interactionModeParticleArcDegrees": 180.0,
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": -1712463714535447345
+  },
+  "nearSpinnerBoneTransform": {
+    "m_FileID": 0,
+    "m_PathID": -5286587000320519225
+  },
+  "farSpinnerTransform": {
+    "m_FileID": 0,
+    "m_PathID": 1069815523376012248
+  }
+}
