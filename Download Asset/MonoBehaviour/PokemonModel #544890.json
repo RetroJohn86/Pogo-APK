@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4878525118669054098
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6078370316984442699
+  },
+  "m_Name": "",
+  "ViewID": 529,
+  "formId": -1,
+  "walkSpeed": 0.29999998,
+  "runSpeed": 1.7999998,
+  "Origin": {
+    "m_FileID": 0,
+    "m_PathID": 8616223993454953199
+  },
+  "Waist": {
+    "m_FileID": 0,
+    "m_PathID": 5769086828619034306
+  },
+  "Head": {
+    "m_FileID": 0,
+    "m_PathID": 3895613958061396196
+  },
+  "ViewFBX": {
+    "m_FileID": 0,
+    "m_PathID": -4796924289054875176
+  },
+  "customCollisionTransforms": [],
+  "attentionBonesTransformsIsSet": 1,
+  "attentionBonesRotationLimitDegrees": 40.0,
+  "attentionBonesPettingLimitDegrees": 15.0,
+  "attentionBonesTransforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 557056368141156313
+    }
+  ],
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": 5767960222795483899
+  },
+  "isFlying": 0,
+  "haloSocket": {
+    "m_FileID": 0,
+    "m_PathID": -7407721418797792757
+  },
+  "faceSocket": {
+    "m_FileID": 0,
+    "m_PathID": 2697850740364731108
+  },
+  "bodySocket": {
+    "m_FileID": 0,
+    "m_PathID": -1642545937731460434
+  },
+  "groundSocket": {
+    "m_FileID": 0,
+    "m_PathID": -8205057630441682657
+  },
+  "centerSocket": {
+    "m_FileID": 0,
+    "m_PathID": 44950142785398439
+  },
+  "feedingSocket": {
+    "m_FileID": 0,
+    "m_PathID": -5090174011296117079
+  },
+  "badgeSocket": {
+    "m_FileID": 0,
+    "m_PathID": 7162219499922461715
+  },
+  "defaultContext": 0,
+  "glowEffect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6865767064927027083
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6078370316984442699
+  },
+  "m_Name": "",
+  "ViewID": 190,
+  "formId": -1,
+  "walkSpeed": 0.59999996,
+  "runSpeed": 4.2,
+  "Origin": {
+    "m_FileID": 0,
+    "m_PathID": -4753058568977569169
+  },
+  "Waist": {
+    "m_FileID": 0,
+    "m_PathID": -6191993638392473089
+  },
+  "Head": {
+    "m_FileID": 0,
+    "m_PathID": -5078810725648720510
+  },
+  "ViewFBX": {
+    "m_FileID": 0,
+    "m_PathID": -3387534298504373265
+  },
+  "customCollisionTransforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6367325096219435347
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6795525667411290766
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5797595619257089468
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -815035431566159271
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -548149898669296532
+    }
+  ],
+  "attentionBonesTransformsIsSet": 1,
+  "attentionBonesRotationLimitDegrees": 40.0,
+  "attentionBonesPettingLimitDegrees": 15.0,
+  "attentionBonesTransforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5078810725648720510
+    }
+  ],
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": 1422942042393033641
+  },
+  "isFlying": 0,
+  "haloSocket": {
+    "m_FileID": 0,
+    "m_PathID": -1065213389883807511
+  },
+  "faceSocket": {
+    "m_FileID": 0,
+    "m_PathID": 3755488562372030358
+  },
+  "bodySocket": {
+    "m_FileID": 0,
+    "m_PathID": 9073781548357183308
+  },
+  "groundSocket": {
+    "m_FileID": 0,
+    "m_PathID": 6934559982819741606
+  },
+  "centerSocket": {
+    "m_FileID": 0,
+    "m_PathID": 8406129739101971032
+  },
+  "feedingSocket": {
+    "m_FileID": 0,
+    "m_PathID": -4532148888679740122
+  },
+  "badgeSocket": {
+    "m_FileID": 0,
+    "m_PathID": -7261043717014205978
+  },
+  "defaultContext": 0,
+  "glowEffect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

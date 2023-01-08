@@ -1,0 +1,105 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2715125508872188537
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6078370316984442699
+  },
+  "m_Name": "",
+  "ViewID": 217,
+  "formId": -1,
+  "walkSpeed": 1.1999978,
+  "runSpeed": 5.3999996,
+  "Origin": {
+    "m_FileID": 0,
+    "m_PathID": -8941214568234284534
+  },
+  "Waist": {
+    "m_FileID": 0,
+    "m_PathID": -1472416400105273459
+  },
+  "Head": {
+    "m_FileID": 0,
+    "m_PathID": -1000545155941345001
+  },
+  "ViewFBX": {
+    "m_FileID": 0,
+    "m_PathID": -3562836056355824206
+  },
+  "customCollisionTransforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3214236719791199192
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8479115325270450963
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7369138249791228226
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6696057317597701999
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4722560527999938563
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2644437475128586076
+    }
+  ],
+  "attentionBonesTransformsIsSet": 1,
+  "attentionBonesRotationLimitDegrees": 40.0,
+  "attentionBonesPettingLimitDegrees": 15.0,
+  "attentionBonesTransforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3927434668178656514
+    }
+  ],
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": -3613687018961301720
+  },
+  "isFlying": 0,
+  "haloSocket": {
+    "m_FileID": 0,
+    "m_PathID": 3662059061695870006
+  },
+  "faceSocket": {
+    "m_FileID": 0,
+    "m_PathID": 5142513013928985418
+  },
+  "bodySocket": {
+    "m_FileID": 0,
+    "m_PathID": -1170927312077858754
+  },
+  "groundSocket": {
+    "m_FileID": 0,
+    "m_PathID": -5280126497641909209
+  },
+  "centerSocket": {
+    "m_FileID": 0,
+    "m_PathID": 4823985251143286236
+  },
+  "feedingSocket": {
+    "m_FileID": 0,
+    "m_PathID": 5251213910186609838
+  },
+  "badgeSocket": {
+    "m_FileID": 0,
+    "m_PathID": 7168230343805534952
+  },
+  "defaultContext": 0,
+  "glowEffect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}
