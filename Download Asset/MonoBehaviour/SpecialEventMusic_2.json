@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6250764709101631656
+  },
+  "m_Name": "SpecialEventMusic_2",
+  "Clip": {
+    "m_FileID": 0,
+    "m_PathID": 5601115731746548391
+  },
+  "Volume": 1.0,
+  "FadeOutTime": 1.0,
+  "FadeInTime": 2.0,
+  "Looping": 1,
+  "LoopStart": 3.356,
+  "LoopEnd": 50.35,
+  "StartTimes": []
+}

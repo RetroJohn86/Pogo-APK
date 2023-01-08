@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -893652026121542727
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9174133549579455830
+  },
+  "m_Name": "",
+  "eggAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 770085182320566780
+  },
+  "eggHatchFxRoot": {
+    "m_FileID": 0,
+    "m_PathID": 873655551318987023
+  },
+  "eggSpawnFxPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 3320958938540552831
+  },
+  "eggHatchAnimationFxPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 6356831064338388425
+  },
+  "eggHatchBurstFxPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 5348258801916857156
+  },
+  "hatchSequenceDuration": 4.5,
+  "wiggleChance": 0.4,
+  "wiggleDrawPeriod": 1.0,
+  "hatchSound": {
+    "m_FileID": 0,
+    "m_PathID": 8400137355629386044
+  },
+  "startingCrackSpeed": 0.01,
+  "crackSpeedIncreaseSpeed": 0.2,
+  "endingCrackSpeed": 2.0,
+  "eggRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -4064484099721657822
+  }
+}

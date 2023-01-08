@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6250764709101631656
+  },
+  "m_Name": "RaidMegaBattleMusic",
+  "Clip": {
+    "m_FileID": 0,
+    "m_PathID": -3425621139271624290
+  },
+  "Volume": 1.0,
+  "FadeOutTime": 1.0,
+  "FadeInTime": 0.0,
+  "Looping": 1,
+  "LoopStart": 19.726,
+  "LoopEnd": 151.233,
+  "StartTimes": []
+}

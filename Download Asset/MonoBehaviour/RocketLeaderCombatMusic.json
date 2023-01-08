@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6250764709101631656
+  },
+  "m_Name": "RocketLeaderCombatMusic",
+  "Clip": {
+    "m_FileID": 0,
+    "m_PathID": -5640115599568945321
+  },
+  "Volume": 1.0,
+  "FadeOutTime": 1.0,
+  "FadeInTime": 0.0,
+  "Looping": 1,
+  "LoopStart": 11.294,
+  "LoopEnd": 59.998,
+  "StartTimes": []
+}

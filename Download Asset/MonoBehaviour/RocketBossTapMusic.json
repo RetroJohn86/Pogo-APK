@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6250764709101631656
+  },
+  "m_Name": "RocketBossTapMusic",
+  "Clip": {
+    "m_FileID": 0,
+    "m_PathID": -4974098192533117447
+  },
+  "Volume": 1.0,
+  "FadeOutTime": 1.0,
+  "FadeInTime": 0.0,
+  "Looping": 1,
+  "LoopStart": 1.846,
+  "LoopEnd": 46.15,
+  "StartTimes": []
+}

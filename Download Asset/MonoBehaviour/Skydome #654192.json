@@ -1,0 +1,214 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6488051905107472997
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4247538253774893158
+  },
+  "m_Name": "",
+  "skyRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 8291310814625504141
+  },
+  "cloudRenderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1144336437954213777
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6649274019261065782
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6534693747543300673
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2917258302605620525
+    }
+  ],
+  "defaultFogDistanceEnd": 208.0,
+  "lowMemoryFogDistanceEnd": 135.0,
+  "minFogStartEndDistance": 45.0,
+  "hdrCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.4,
+        "inSlope": -0.036118608,
+        "outSlope": -0.036118608,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.058333334
+      },
+      {
+        "time": 30.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "sunMoonRadius": 300.0,
+  "moonScale": 1.7,
+  "moonMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "celestialRadius": 300.0,
+  "starMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "starResetMarginDgr": 5.0,
+  "milkyWayMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "displayedPlanets": [
+    {
+      "Planet": 0,
+      "Magnitude": -1.0,
+      "Color": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 1.0
+      }
+    },
+    {
+      "Planet": 1,
+      "Magnitude": -4.0,
+      "Color": {
+        "r": 1.0,
+        "g": 0.96,
+        "b": 0.77,
+        "a": 1.0
+      }
+    },
+    {
+      "Planet": 3,
+      "Magnitude": -1.0,
+      "Color": {
+        "r": 1.0,
+        "g": 0.51,
+        "b": 0.08,
+        "a": 1.0
+      }
+    },
+    {
+      "Planet": 4,
+      "Magnitude": -2.5,
+      "Color": {
+        "r": 0.8,
+        "g": 0.45,
+        "b": 0.37,
+        "a": 1.0
+      }
+    },
+    {
+      "Planet": 5,
+      "Magnitude": 0.0,
+      "Color": {
+        "r": 0.9,
+        "g": 0.75,
+        "b": 0.42,
+        "a": 1.0
+      }
+    }
+  ],
+  "useOverridePalette": 1,
+  "overridePalette": {
+    "SkyColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "HorizonColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "StarStrength": 7.0,
+    "MoonStrength": 0.0,
+    "MilkyWayStrength": 1.0,
+    "FogColor": {
+      "r": 0.4117647,
+      "g": 0.31764707,
+      "b": 0.39215687,
+      "a": 1.0
+    },
+    "FogDistance": 120.0,
+    "CloudHighlightColor": {
+      "r": 1.0,
+      "g": 0.9254902,
+      "b": 0.80784315,
+      "a": 1.0
+    },
+    "CloudColor": {
+      "r": 0.24313726,
+      "g": 0.6784314,
+      "b": 0.9607843,
+      "a": 1.0
+    },
+    "CloudShadowColor": {
+      "r": 0.9528302,
+      "g": 0.5924967,
+      "b": 0.5348434,
+      "a": 1.0
+    },
+    "AmbientColor": {
+      "r": 0.4745098,
+      "g": 0.39607844,
+      "b": 0.59607846,
+      "a": 1.0
+    },
+    "AvatarRimColor": {
+      "r": 0.6981132,
+      "g": 0.4247953,
+      "b": 0.5303953,
+      "a": 1.0
+    },
+    "CloudAlphas": [
+      0.5,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "TerrainSaturation": 1.0,
+    "TerrainFadeIntensity": 0.0,
+    "SunScatteringStrength": 0.0,
+    "SunStrength": 0.0,
+    "SunColor": {
+      "r": 0.97647065,
+      "g": 0.8941177,
+      "b": 0.8000001,
+      "a": 1.0
+    },
+    "WaterSunNearColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "WaterSunFarColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "WaterSunIntensity": 0.0
+  }
+}

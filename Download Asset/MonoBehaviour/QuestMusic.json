@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6250764709101631656
+  },
+  "m_Name": "QuestMusic",
+  "Clip": {
+    "m_FileID": 0,
+    "m_PathID": -6837447615802633610
+  },
+  "Volume": 1.0,
+  "FadeOutTime": 1.0,
+  "FadeInTime": 0.0,
+  "Looping": 1,
+  "LoopStart": 11.076,
+  "LoopEnd": 55.3846,
+  "StartTimes": []
+}
