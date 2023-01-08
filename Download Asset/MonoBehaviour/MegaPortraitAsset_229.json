@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6951194862885683153
+  },
+  "m_Name": "MegaPortraitAsset_229",
+  "PokemonId": 229,
+  "MegaPokemonPortraitSettings": [
+    {
+      "FormString": "MEGA",
+      "AccentColor": {
+        "r": 1.0,
+        "g": 0.28131145,
+        "b": 0.11764705,
+        "a": 1.0
+      }
+    }
+  ],
+  "MegaPortraitPositionType": 0
+}

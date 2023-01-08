@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2166399336556568252
+  },
+  "m_Name": "MossyLure",
+  "ForItem": 503,
+  "NameKey": "item_troy_disk_mossy_name",
+  "DescriptionKey": "item_troy_disk_mossy_desc",
+  "SlotIcon": {
+    "m_AssetGUID": "77ae321d2e3774b63947dcc7718b5f1a",
+    "m_SubObjectName": "TroyKeyVector",
+    "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "InventoryIcon": {
+    "m_AssetGUID": "3f59526c00fe846d4b705a767063005b",
+    "m_SubObjectName": "TroyKey_moss",
+    "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "EvolveButtonIcon": {
+    "m_AssetGUID": "3f59526c00fe846d4b705a767063005b",
+    "m_SubObjectName": "TroyKey_moss",
+    "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "PoiActiveEffect": {
+    "m_FileID": 0,
+    "m_PathID": 7230167862903947760
+  },
+  "PoiFarAirEffectImageAddress": "tx_leaf_far",
+  "PoiFarEffectSecondaryImageAddress": "0"
+}

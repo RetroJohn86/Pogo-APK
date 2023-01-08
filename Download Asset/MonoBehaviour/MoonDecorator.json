@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4730895117516173972
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5389731985982451100
+  },
+  "m_Name": "",
+  "positionOffset": {
+    "x": 0.0,
+    "y": 0.25,
+    "z": 0.0
+  },
+  "rotationOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "scaleOffset": {
+    "x": 1.2,
+    "y": 1.2,
+    "z": 1.2
+  },
+  "parentConstraint": {
+    "m_FileID": 0,
+    "m_PathID": 7201583482687900576
+  },
+  "scaleConstraint": {
+    "m_FileID": 0,
+    "m_PathID": 1346907966544546556
+  }
+}

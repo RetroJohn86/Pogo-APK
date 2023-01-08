@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6250764709101631656
+  },
+  "m_Name": "Meloetta_Map_Music_Rock",
+  "Clip": {
+    "m_FileID": 0,
+    "m_PathID": 2923379911577051367
+  },
+  "Volume": 1.0,
+  "FadeOutTime": 1.0,
+  "FadeInTime": 2.0,
+  "Looping": 1,
+  "LoopStart": 11.803,
+  "LoopEnd": 66.885,
+  "StartTimes": []
+}

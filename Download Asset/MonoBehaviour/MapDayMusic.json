@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6250764709101631656
+  },
+  "m_Name": "MapDayMusic",
+  "Clip": {
+    "m_FileID": 0,
+    "m_PathID": 3372914064978955059
+  },
+  "Volume": 1.0,
+  "FadeOutTime": 1.0,
+  "FadeInTime": 2.0,
+  "Looping": 1,
+  "LoopStart": 33.8,
+  "LoopEnd": 0.0,
+  "StartTimes": []
+}

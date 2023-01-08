@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6250764709101631656
+  },
+  "m_Name": "MapKalosMusic",
+  "Clip": {
+    "m_FileID": 0,
+    "m_PathID": 3138471226958770535
+  },
+  "Volume": 1.0,
+  "FadeOutTime": 1.0,
+  "FadeInTime": 2.0,
+  "Looping": 1,
+  "LoopStart": 28.26,
+  "LoopEnd": 139.56,
+  "StartTimes": []
+}
