@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -563238591794890680
+    "m_PathID": 7661606400263772859
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -11,14 +11,14 @@
   "m_Name": "",
   "colorOptions": [
     {
-      "name": "f_backpack_kakureonpouch_0",
+      "name": "f_glasses_frillishglasses_0",
       "color": {
         "m_FileID": 0,
-        "m_PathID": 0
+        "m_PathID": 698365262854460601
       },
       "pattern": {
         "m_FileID": 0,
-        "m_PathID": -8226657162655665084
+        "m_PathID": -5414927273905929845
       },
       "useGradient": 0,
       "gradient": {
@@ -91,27 +91,52 @@
         "m_NumAlphaKeys": 2
       },
       "swatch": {
-        "r": 0.57254905,
-        "g": 0.69411767,
-        "b": 0.4392157,
+        "r": 0.5647059,
+        "g": 0.7529412,
+        "b": 0.7921569,
         "a": 1.0
       },
       "skinTextures": [],
-      "colorAdjustments": []
+      "colorAdjustments": [
+        {
+          "Mask": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ColorOne": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "ColorTwo": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "ColorThree": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          }
+        }
+      ]
     }
   ],
   "slots": [
-    7
+    12
   ],
   "hideParts": [],
-  "swapPart": 9,
+  "swapPart": 0,
   "swapMesh": {
     "m_FileID": 0,
-    "m_PathID": 4802799242120241227
+    "m_PathID": 0
   },
   "swapDoodadGameObject": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": 8690534104184328143
   },
   "hideDoodadSlots": [],
   "restrictBuddyOnShoulder": 0,

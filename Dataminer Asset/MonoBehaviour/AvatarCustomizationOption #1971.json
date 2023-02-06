@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -563238591794890680
+    "m_PathID": -4788035956875302397
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -11,14 +11,14 @@
   "m_Name": "",
   "colorOptions": [
     {
-      "name": "f_backpack_kakureonpouch_0",
+      "name": "m_backpack_kakureonpouch_0",
       "color": {
         "m_FileID": 0,
         "m_PathID": 0
       },
       "pattern": {
         "m_FileID": 0,
-        "m_PathID": -8226657162655665084
+        "m_PathID": -2137046953633728789
       },
       "useGradient": 0,
       "gradient": {
@@ -93,7 +93,7 @@
       "swatch": {
         "r": 0.57254905,
         "g": 0.69411767,
-        "b": 0.4392157,
+        "b": 0.43921572,
         "a": 1.0
       },
       "skinTextures": [],
@@ -107,7 +107,7 @@
   "swapPart": 9,
   "swapMesh": {
     "m_FileID": 0,
-    "m_PathID": 4802799242120241227
+    "m_PathID": 2951046515142792870
   },
   "swapDoodadGameObject": {
     "m_FileID": 0,
