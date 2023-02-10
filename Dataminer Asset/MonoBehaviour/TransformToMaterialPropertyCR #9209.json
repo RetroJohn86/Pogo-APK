@@ -1,0 +1,231 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3385872789915808818
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3227642854647831317
+  },
+  "m_Name": "",
+  "drivenMaterials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -9107629473393877315
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8458298043759907047
+    }
+  ],
+  "materialPropertyDriver": {
+    "xformDatas": [
+      {
+        "xformDriver": {
+          "m_FileID": 0,
+          "m_PathID": 3245047112903725264
+        },
+        "xformDriverAuto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "xformDriverCustom": {
+          "m_FileID": 0,
+          "m_PathID": 3245047112903725264
+        },
+        "isOverrideDriver": 1,
+        "drivenProperty": {
+          "m_FileID": 7,
+          "m_PathID": 1484691018055542381
+        },
+        "isOverrideValues": 1,
+        "_magnitude": 1.0,
+        "_min": 0.0,
+        "_max": 1.0,
+        "uvColumns": 0,
+        "uvRows": 0,
+        "uvSets": 0,
+        "uvIsStepped": 0,
+        "DrivenPropertyIDs": [
+          {
+            "ID": 572,
+            "type": 0,
+            "block": 0
+          }
+        ]
+      },
+      {
+        "xformDriver": {
+          "m_FileID": 0,
+          "m_PathID": -6995483080351814533
+        },
+        "xformDriverAuto": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "xformDriverCustom": {
+          "m_FileID": 0,
+          "m_PathID": -6995483080351814533
+        },
+        "isOverrideDriver": 1,
+        "drivenProperty": {
+          "m_FileID": 8,
+          "m_PathID": 3028300847023929460
+        },
+        "isOverrideValues": 1,
+        "_magnitude": 1.0,
+        "_min": 0.0,
+        "_max": 1.0,
+        "uvColumns": 0,
+        "uvRows": 0,
+        "uvSets": 0,
+        "uvIsStepped": 0,
+        "DrivenPropertyIDs": [
+          {
+            "ID": 573,
+            "type": 0,
+            "block": 1
+          }
+        ]
+      }
+    ],
+    "xformCache": [
+      {
+        "xformDriver": {
+          "m_FileID": 0,
+          "m_PathID": 3245047112903725264
+        },
+        "xformDataIndices": [
+          0
+        ],
+        "xformDataIndexList": [
+          0
+        ]
+      },
+      {
+        "xformDriver": {
+          "m_FileID": 0,
+          "m_PathID": -6995483080351814533
+        },
+        "xformDataIndices": [
+          1
+        ],
+        "xformDataIndexList": [
+          1
+        ]
+      }
+    ],
+    "drivenMeshRenderers": [
+      {
+        "Default": {
+          "m_FileID": 0,
+          "m_PathID": 3660062584656608745
+        },
+        "Custom": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "isOverride": 0
+      },
+      {
+        "Default": {
+          "m_FileID": 0,
+          "m_PathID": 2800900920042833297
+        },
+        "Custom": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "isOverride": 0
+      },
+      {
+        "Default": {
+          "m_FileID": 0,
+          "m_PathID": -4835188270752776671
+        },
+        "Custom": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "isOverride": 0
+      },
+      {
+        "Default": {
+          "m_FileID": 0,
+          "m_PathID": -1073639635155666168
+        },
+        "Custom": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "isOverride": 0
+      },
+      {
+        "Default": {
+          "m_FileID": 0,
+          "m_PathID": 8892138074131904241
+        },
+        "Custom": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "isOverride": 0
+      }
+    ],
+    "cachedRenderers": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 3660062584656608745
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2800900920042833297
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -4835188270752776671
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -1073639635155666168
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 8892138074131904241
+      }
+    ],
+    "uvFaceA": {
+      "isActive": 0,
+      "uvStep": {
+        "x": "NaN",
+        "y": "NaN"
+      }
+    },
+    "uvFaceB": {
+      "isActive": 0,
+      "uvStep": {
+        "x": "NaN",
+        "y": "NaN"
+      }
+    },
+    "uvDirectA": {
+      "isActive": 0,
+      "uvStep": {
+        "x": "NaN",
+        "y": "NaN"
+      }
+    },
+    "uvDirectB": {
+      "isActive": 0,
+      "uvStep": {
+        "x": "NaN",
+        "y": "NaN"
+      }
+    },
+    "originalFaceJointY": 0.0,
+    "angryFaceJointY": 4.0,
+    "smileFaceJointY": 0.0,
+    "extraFaceJointOverride": []
+  }
+}

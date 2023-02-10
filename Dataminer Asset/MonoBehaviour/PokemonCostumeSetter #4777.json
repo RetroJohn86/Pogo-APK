@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3029754839364636162
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7115792337821452219
+  },
+  "m_Name": "",
+  "costumeSets": [
+    {
+      "costumeId": "UNSET",
+      "prefabs": [],
+      "setEvents": {
+        "m_PersistentCalls": {
+          "m_Calls": []
+        }
+      }
+    },
+    {
+      "costumeId": "HALLOWEEN_2021_NOEVOLVE",
+      "prefabs": [
+        {
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "costumeMaterialSwaps": [],
+          "socket": {
+            "m_FileID": 0,
+            "m_PathID": -281318279648564908
+          },
+          "customOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "customRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      ],
+      "setEvents": {
+        "m_PersistentCalls": {
+          "m_Calls": []
+        }
+      }
+    }
+  ]
+}
