@@ -3,7 +3,7 @@
 **This Repository is of all thinks found and mined in the APK File, including Images and More. This repo is organized based on category and is a combination of remote assets found inside the APK.**
 
 
-__**Files and Folder Structure. APK+Download Asset**__
+__**Files and Folder Structure. APK + Dataminer Asset + Download Asset**__
 
 **Animator** **:**
 **AudioClip** **:** 
