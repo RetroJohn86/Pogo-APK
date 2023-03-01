@@ -110,7 +110,12 @@
   "m_HideMobileInput": 0,
   "m_CharacterValidation": 3,
   "m_CharacterLimit": 14,
-  "m_OnEndEdit": {
+  "m_OnSubmit": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "m_OnDidEndEdit": {
     "m_PersistentCalls": {
       "m_Calls": []
     }

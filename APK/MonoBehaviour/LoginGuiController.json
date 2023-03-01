@@ -58,10 +58,16 @@
     "m_FileID": 0,
     "m_PathID": 956435168976984781
   },
-  "forgottenObject": {
-    "m_FileID": 0,
-    "m_PathID": -3394960642580238782
-  },
+  "forgottenObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6461936600706612487
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7675142698568222782
+    }
+  ],
   "forgottenUserNameText": {
     "m_FileID": 0,
     "m_PathID": 3192040610092706224
