@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2166399336556568252
+  },
+  "m_Name": "SparklyLure",
+  "ForItem": 506,
+  "NameKey": "item_troy_disk_sparkly_name",
+  "DescriptionKey": "item_troy_disk_sparkly_desc",
+  "SlotIcon": {
+    "m_AssetGUID": "77ae321d2e3774b63947dcc7718b5f1a",
+    "m_SubObjectName": "TroyKeyVector",
+    "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "InventoryIcon": {
+    "m_AssetGUID": "a7e35b6b741644591b3db832f8e93372",
+    "m_SubObjectName": "TroyKey_sparkly",
+    "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "EvolveButtonIcon": {
+    "m_AssetGUID": "a7e35b6b741644591b3db832f8e93372",
+    "m_SubObjectName": "TroyKey_sparkly",
+    "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "PoiActiveEffect": {
+    "m_FileID": 0,
+    "m_PathID": -7464578569968935698
+  },
+  "PoiFarAirEffectImageAddress": "tx_sparkly_far",
+  "PoiFarEffectSecondaryImageAddress": "0",
+  "PoiStyleAddress": "FollowerIncidentStyleConfig"
+}

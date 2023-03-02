@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 5579490138921243713
+    "m_PathID": -9113173604007175759
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -13,22 +13,22 @@
     {
       "defaultMaterial": {
         "m_FileID": 0,
-        "m_PathID": -1071051209957833954
+        "m_PathID": -3473885259418605734
       },
       "shinyMaterial": {
         "m_FileID": 0,
-        "m_PathID": 5505235790375936890
+        "m_PathID": 9110189348801104818
       },
-      "materialMode": 0,
+      "materialMode": 1,
       "genderId": {
-        "gender": 0,
+        "gender": 2,
         "defaultMaterial": {
           "m_FileID": 0,
-          "m_PathID": 0
+          "m_PathID": -9074008169974008080
         },
         "shinyMaterial": {
           "m_FileID": 0,
-          "m_PathID": 0
+          "m_PathID": -1841322073380853189
         }
       },
       "formIds": []
@@ -44,12 +44,12 @@
     {
       "renderer": {
         "m_FileID": 0,
-        "m_PathID": -4431510592794254614
+        "m_PathID": 4537430622979951280
       },
       "sharedMaterials": [
         {
           "m_FileID": 0,
-          "m_PathID": -1071051209957833954
+          "m_PathID": -3473885259418605734
         }
       ]
     }

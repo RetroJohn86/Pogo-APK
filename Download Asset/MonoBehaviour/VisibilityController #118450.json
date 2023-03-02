@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 646471274501833366
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1675600835764493568
+  },
+  "m_Name": "",
+  "isVisible": 1,
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 5817652454205345117
+  },
+  "visibilityOnTransitions": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3377926129126412985
+    }
+  ],
+  "visibilityOffTransitions": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7036979858090995112
+    }
+  ]
+}

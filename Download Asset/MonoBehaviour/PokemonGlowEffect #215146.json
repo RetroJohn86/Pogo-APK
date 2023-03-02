@@ -1,0 +1,90 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7344911647348610435
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3006626848764810061
+  },
+  "m_Name": "",
+  "pokemonModel": {
+    "m_FileID": 0,
+    "m_PathID": -2303712927687492287
+  },
+  "groundedGlowCardPrefab": {
+    "m_FileID": 9,
+    "m_PathID": 405010946759741191
+  },
+  "cardParent": {
+    "m_FileID": 0,
+    "m_PathID": 6262011594311945094
+  },
+  "doGroundFxPointConstraint": 1,
+  "glowConfig": {
+    "m_FileID": 0,
+    "m_PathID": -8782583968322976814
+  },
+  "bloomGlowCardPrefab": {
+    "m_FileID": 7,
+    "m_PathID": -816634607509657378
+  },
+  "bloomCardConfigs": [
+    {
+      "Parent": {
+        "m_FileID": 0,
+        "m_PathID": 1352962769491394302
+      },
+      "BloomScale": {
+        "x": 0.8,
+        "y": 0.8,
+        "z": 0.8
+      }
+    },
+    {
+      "Parent": {
+        "m_FileID": 0,
+        "m_PathID": 7107072877454179892
+      },
+      "BloomScale": {
+        "x": 0.8,
+        "y": 0.8,
+        "z": 0.8
+      }
+    },
+    {
+      "Parent": {
+        "m_FileID": 0,
+        "m_PathID": -4935314936584030746
+      },
+      "BloomScale": {
+        "x": 0.8,
+        "y": 0.8,
+        "z": 0.8
+      }
+    },
+    {
+      "Parent": {
+        "m_FileID": 0,
+        "m_PathID": 928420890213138415
+      },
+      "BloomScale": {
+        "x": 0.8,
+        "y": 0.8,
+        "z": 0.8
+      }
+    },
+    {
+      "Parent": {
+        "m_FileID": 0,
+        "m_PathID": 1715276593828902465
+      },
+      "BloomScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6235186998326378611
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5800165002046869275
+  },
+  "m_Name": "",
+  "materialSets": [
+    {
+      "defaultMaterial": {
+        "m_FileID": 0,
+        "m_PathID": -3250543940852554221
+      },
+      "shinyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": -5248501469037914729
+      },
+      "materialMode": 0,
+      "genderId": {
+        "gender": 0,
+        "defaultMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "shinyMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      "formIds": []
+    },
+    {
+      "defaultMaterial": {
+        "m_FileID": 0,
+        "m_PathID": 7031001273877057701
+      },
+      "shinyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": -934509292091287901
+      },
+      "materialMode": 0,
+      "genderId": {
+        "gender": 0,
+        "defaultMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "shinyMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      "formIds": []
+    },
+    {
+      "defaultMaterial": {
+        "m_FileID": 0,
+        "m_PathID": -7470400233881922072
+      },
+      "shinyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": 830841654197022517
+      },
+      "materialMode": 0,
+      "genderId": {
+        "gender": 0,
+        "defaultMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "shinyMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      "formIds": []
+    }
+  ],
+  "alignmentTextures": [],
+  "alignmentOverride": {
+    "useIrisShader": 0,
+    "useTextureAndEyeTint": 0,
+    "overrideLightFxColor": 0
+  },
+  "rendererSharedMaterials": [
+    {
+      "renderer": {
+        "m_FileID": 0,
+        "m_PathID": -3509962178514652857
+      },
+      "sharedMaterials": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -7470400233881922072
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7031001273877057701
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -3250543940852554221
+        }
+      ]
+    },
+    {
+      "renderer": {
+        "m_FileID": 0,
+        "m_PathID": -6556451031538696851
+      },
+      "sharedMaterials": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -7470400233881922072
+        }
+      ]
+    },
+    {
+      "renderer": {
+        "m_FileID": 0,
+        "m_PathID": 1093857856274170607
+      },
+      "sharedMaterials": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -7470400233881922072
+        }
+      ]
+    },
+    {
+      "renderer": {
+        "m_FileID": 0,
+        "m_PathID": -2807005204704691907
+      },
+      "sharedMaterials": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 7031001273877057701
+        }
+      ]
+    }
+  ]
+}

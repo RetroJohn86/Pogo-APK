@@ -1,0 +1,92 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8808284396197928540
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5800165002046869275
+  },
+  "m_Name": "",
+  "materialSets": [
+    {
+      "defaultMaterial": {
+        "m_FileID": 0,
+        "m_PathID": -6031406428266752364
+      },
+      "shinyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": 5032003856082006881
+      },
+      "materialMode": 0,
+      "genderId": {
+        "gender": 0,
+        "defaultMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "shinyMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      "formIds": []
+    },
+    {
+      "defaultMaterial": {
+        "m_FileID": 0,
+        "m_PathID": -1339396031078754816
+      },
+      "shinyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": -4204226379448219535
+      },
+      "materialMode": 0,
+      "genderId": {
+        "gender": 0,
+        "defaultMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "shinyMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      "formIds": []
+    }
+  ],
+  "alignmentTextures": [],
+  "alignmentOverride": {
+    "useIrisShader": 0,
+    "useTextureAndEyeTint": 0,
+    "overrideLightFxColor": 0
+  },
+  "rendererSharedMaterials": [
+    {
+      "renderer": {
+        "m_FileID": 0,
+        "m_PathID": 3789988464679040764
+      },
+      "sharedMaterials": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -6031406428266752364
+        }
+      ]
+    },
+    {
+      "renderer": {
+        "m_FileID": 0,
+        "m_PathID": 7958494193100610907
+      },
+      "sharedMaterials": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -1339396031078754816
+        }
+      ]
+    }
+  ]
+}

@@ -32,5 +32,6 @@
     "m_PathID": -8305028332508612384
   },
   "PoiFarAirEffectImageAddress": "tx_snowflake_far",
-  "PoiFarEffectSecondaryImageAddress": "0"
+  "PoiFarEffectSecondaryImageAddress": "0",
+  "PoiStyleAddress": "NONE"
 }

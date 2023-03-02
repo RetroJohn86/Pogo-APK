@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6876328284751884592
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4144074668021264365
+  },
+  "m_Name": "",
+  "driverJoint": {
+    "m_FileID": 0,
+    "m_PathID": 4945081081373689398
+  },
+  "invisTranslateX": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "visTranslateX": {
+    "m_FileID": 0,
+    "m_PathID": -5640990169658582218
+  },
+  "visTranslateY": {
+    "m_FileID": 0,
+    "m_PathID": -468068823742767559
+  },
+  "visTranslateZ": {
+    "m_FileID": 0,
+    "m_PathID": -9154053378575983329
+  },
+  "visRotateX": {
+    "m_FileID": 0,
+    "m_PathID": 6531486422465870083
+  },
+  "visRotateY": {
+    "m_FileID": 0,
+    "m_PathID": 8759708856537581703
+  },
+  "visRotateZ": {
+    "m_FileID": 0,
+    "m_PathID": -3755292953249073434
+  },
+  "visScaleX": {
+    "m_FileID": 0,
+    "m_PathID": 5606765389091116128
+  },
+  "visScaleY": {
+    "m_FileID": 0,
+    "m_PathID": 4157120268699138791
+  },
+  "visScaleZ": {
+    "m_FileID": 0,
+    "m_PathID": -2527291278997851101
+  }
+}

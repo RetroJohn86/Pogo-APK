@@ -1,0 +1,128 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1697760649584533230
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5800165002046869275
+  },
+  "m_Name": "",
+  "materialSets": [
+    {
+      "defaultMaterial": {
+        "m_FileID": 0,
+        "m_PathID": -8582848802648756660
+      },
+      "shinyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": 5039109461916804150
+      },
+      "materialMode": 0,
+      "genderId": {
+        "gender": 0,
+        "defaultMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "shinyMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      "formIds": []
+    },
+    {
+      "defaultMaterial": {
+        "m_FileID": 0,
+        "m_PathID": -2201957430154904871
+      },
+      "shinyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": -8828616054591241713
+      },
+      "materialMode": 0,
+      "genderId": {
+        "gender": 0,
+        "defaultMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "shinyMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      "formIds": []
+    }
+  ],
+  "alignmentTextures": [],
+  "alignmentOverride": {
+    "useIrisShader": 0,
+    "useTextureAndEyeTint": 0,
+    "overrideLightFxColor": 0
+  },
+  "rendererSharedMaterials": [
+    {
+      "renderer": {
+        "m_FileID": 0,
+        "m_PathID": 9156409972777007662
+      },
+      "sharedMaterials": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -8582848802648756660
+        }
+      ]
+    },
+    {
+      "renderer": {
+        "m_FileID": 0,
+        "m_PathID": 8370795179776331832
+      },
+      "sharedMaterials": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -2201957430154904871
+        }
+      ]
+    },
+    {
+      "renderer": {
+        "m_FileID": 0,
+        "m_PathID": 3378436489647975963
+      },
+      "sharedMaterials": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -8582848802648756660
+        }
+      ]
+    },
+    {
+      "renderer": {
+        "m_FileID": 0,
+        "m_PathID": 2163989942279712446
+      },
+      "sharedMaterials": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -8582848802648756660
+        }
+      ]
+    },
+    {
+      "renderer": {
+        "m_FileID": 0,
+        "m_PathID": 4255090088047884339
+      },
+      "sharedMaterials": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -8582848802648756660
+        }
+      ]
+    }
+  ]
+}

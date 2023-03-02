@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 718511386673431333
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7539530905547057454
+  },
+  "m_Name": "",
+  "orientation": 1,
+  "buttonOrientationOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "buttonLocalScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "active": 1
+}

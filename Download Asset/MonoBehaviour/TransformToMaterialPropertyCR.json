@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 3918166143179532694
+    "m_PathID": -9113173604007175759
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -12,7 +12,7 @@
   "drivenMaterials": [
     {
       "m_FileID": 0,
-      "m_PathID": -5243409622807665234
+      "m_PathID": -3473885259418605734
     }
   ],
   "materialPropertyDriver": {
@@ -20,32 +20,32 @@
       {
         "xformDriver": {
           "m_FileID": 0,
-          "m_PathID": 6152332973148701789
+          "m_PathID": 1999439581904024600
         },
         "xformDriverAuto": {
           "m_FileID": 0,
-          "m_PathID": 0
+          "m_PathID": 1999439581904024600
         },
         "xformDriverCustom": {
           "m_FileID": 0,
-          "m_PathID": 6152332973148701789
+          "m_PathID": 1999439581904024600
         },
         "isOverrideDriver": 1,
         "drivenProperty": {
           "m_FileID": 4,
-          "m_PathID": -4448334258314495917
+          "m_PathID": 8480405069437696144
         },
         "isOverrideValues": 1,
         "_magnitude": 0.0,
         "_min": 0.0,
         "_max": 0.0,
-        "uvColumns": 4,
-        "uvRows": 4,
-        "uvSets": 1,
-        "uvIsStepped": 1,
+        "uvColumns": 0,
+        "uvRows": 0,
+        "uvSets": 0,
+        "uvIsStepped": 0,
         "DrivenPropertyIDs": [
           {
-            "ID": 649,
+            "ID": 283,
             "type": 1,
             "block": 0
           }
@@ -56,7 +56,7 @@
       {
         "xformDriver": {
           "m_FileID": 0,
-          "m_PathID": 6152332973148701789
+          "m_PathID": 1999439581904024600
         },
         "xformDataIndices": [
           0
@@ -70,29 +70,7 @@
       {
         "Default": {
           "m_FileID": 0,
-          "m_PathID": -5071652259373503757
-        },
-        "Custom": {
-          "m_FileID": 0,
-          "m_PathID": 0
-        },
-        "isOverride": 0
-      },
-      {
-        "Default": {
-          "m_FileID": 0,
-          "m_PathID": -7928412639346263303
-        },
-        "Custom": {
-          "m_FileID": 0,
-          "m_PathID": 0
-        },
-        "isOverride": 0
-      },
-      {
-        "Default": {
-          "m_FileID": 0,
-          "m_PathID": 1974817419070495602
+          "m_PathID": 4537430622979951280
         },
         "Custom": {
           "m_FileID": 0,
@@ -104,22 +82,14 @@
     "cachedRenderers": [
       {
         "m_FileID": 0,
-        "m_PathID": -5071652259373503757
-      },
-      {
-        "m_FileID": 0,
-        "m_PathID": -7928412639346263303
-      },
-      {
-        "m_FileID": 0,
-        "m_PathID": 1974817419070495602
+        "m_PathID": 4537430622979951280
       }
     ],
     "uvFaceA": {
-      "isActive": 0,
+      "isActive": 1,
       "uvStep": {
-        "x": "NaN",
-        "y": "NaN"
+        "x": 0.5,
+        "y": 0.25
       }
     },
     "uvFaceB": {
@@ -130,10 +100,10 @@
       }
     },
     "uvDirectA": {
-      "isActive": 1,
+      "isActive": 0,
       "uvStep": {
-        "x": 0.25,
-        "y": 0.25
+        "x": "NaN",
+        "y": "NaN"
       }
     },
     "uvDirectB": {

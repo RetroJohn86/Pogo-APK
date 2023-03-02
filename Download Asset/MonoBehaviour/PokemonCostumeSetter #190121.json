@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 149928467815659062
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7115792337821452219
+  },
+  "m_Name": "",
+  "costumeSets": [
+    {
+      "costumeId": "UNSET",
+      "prefabs": [],
+      "setEvents": {
+        "m_PersistentCalls": {
+          "m_Calls": []
+        }
+      }
+    },
+    {
+      "costumeId": "DPM",
+      "prefabs": [
+        {
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "costumeMaterialSwaps": [],
+          "socket": {
+            "m_FileID": 0,
+            "m_PathID": 7921146140604656250
+          },
+          "customOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "customRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      ],
+      "setEvents": {
+        "m_PersistentCalls": {
+          "m_Calls": []
+        }
+      }
+    },
+    {
+      "costumeId": "DPF",
+      "prefabs": [
+        {
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "costumeMaterialSwaps": [],
+          "socket": {
+            "m_FileID": 0,
+            "m_PathID": 7921146140604656250
+          },
+          "customOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "customRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      ],
+      "setEvents": {
+        "m_PersistentCalls": {
+          "m_Calls": []
+        }
+      }
+    }
+  ]
+}

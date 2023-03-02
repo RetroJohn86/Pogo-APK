@@ -32,5 +32,6 @@
     "m_PathID": -596600082640467208
   },
   "PoiFarAirEffectImageAddress": "tx_petal_cascade_far",
-  "PoiFarEffectSecondaryImageAddress": "0"
+  "PoiFarEffectSecondaryImageAddress": "0",
+  "PoiStyleAddress": "NONE"
 }

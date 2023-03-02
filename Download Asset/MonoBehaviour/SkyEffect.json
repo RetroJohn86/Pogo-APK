@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -981868628894565796
+    "m_PathID": 9114641177688923634
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -11,7 +11,7 @@
   "m_Name": "",
   "effectAnimator": {
     "m_FileID": 0,
-    "m_PathID": 9141101318740397051
+    "m_PathID": -2383152305806782525
   },
   "showTransitionName": "Show",
   "hideTransitionName": "Hide",

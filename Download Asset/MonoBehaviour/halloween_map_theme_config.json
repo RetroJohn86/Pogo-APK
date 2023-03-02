@@ -1038,5 +1038,9 @@
         "type": 6
       }
     ]
+  },
+  "mapTileRendererSettings": {
+    "m_FileID": 0,
+    "m_PathID": 0
   }
 }

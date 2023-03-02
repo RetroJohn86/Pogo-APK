@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -3948528855917866017
+    "m_PathID": -8190405169719179728
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -14,6 +14,6 @@
   },
   "areaToCapture": {
     "m_FileID": 0,
-    "m_PathID": -8144259982554174799
+    "m_PathID": -3334552076403157117
   }
 }

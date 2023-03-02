@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7710510597181332275
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7251533103386464165
+  },
+  "m_Name": "",
+  "m_Material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Color": {
+    "r": 0.26666668,
+    "g": 0.4117647,
+    "b": 0.42352942,
+    "a": 1.0
+  },
+  "m_RaycastTarget": 0,
+  "m_RaycastPadding": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "m_Maskable": 1,
+  "m_OnCullStateChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "m_FontData": {
+    "m_Font": {
+      "m_FileID": 2,
+      "m_PathID": 3961234815876835176
+    },
+    "m_FontSize": 18,
+    "m_FontStyle": 0,
+    "m_BestFit": 0,
+    "m_MinSize": 0,
+    "m_MaxSize": 40,
+    "m_Alignment": 4,
+    "m_AlignByGeometry": 0,
+    "m_RichText": 0,
+    "m_HorizontalOverflow": 1,
+    "m_VerticalOverflow": 1,
+    "m_LineSpacing": 1.0
+  },
+  "m_Text": "SHARE",
+  "textKey": "share_title",
+  "caseTransform": 1,
+  "textProviders": [],
+  "maxPreferredWidth": -1.0,
+  "maxPreferredHeight": -1.0,
+  "enableBetterWordWrap": 0,
+  "handleSpecialBreaks": 0
+}

@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -2037136151529243674
+    "m_PathID": -7221884557949118915
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -11,11 +11,11 @@
   "m_Name": "",
   "_pokemonModel": {
     "m_FileID": 0,
-    "m_PathID": -758615518560537715
+    "m_PathID": 1681853088491227406
   },
   "_animator": {
     "m_FileID": 0,
-    "m_PathID": 5684295028444005568
+    "m_PathID": 7316856648843730561
   },
   "_jumpClipCount": 3,
   "_eatClipCount": 3,

@@ -187,6 +187,7 @@
       "RimLightMult": 1.0
     }
   ],
+  "spawnAtLoad": 1,
   "normalPokestopSpawnRate": 0.05,
   "normalPokestopDecorations": [
     {
@@ -195,7 +196,8 @@
         "m_SubObjectName": "",
         "m_SubObjectType": ""
       },
-      "showOnSponsoredPois": 0
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0
     },
     {
       "decorationPrefab": {
@@ -203,7 +205,8 @@
         "m_SubObjectName": "",
         "m_SubObjectType": ""
       },
-      "showOnSponsoredPois": 0
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0
     },
     {
       "decorationPrefab": {
@@ -211,7 +214,8 @@
         "m_SubObjectName": "",
         "m_SubObjectType": ""
       },
-      "showOnSponsoredPois": 0
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0
     }
   ],
   "tallPokestopDecorations": [],
@@ -223,7 +227,8 @@
         "m_SubObjectName": "",
         "m_SubObjectType": ""
       },
-      "showOnSponsoredPois": 0
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0
     }
   ],
   "neutralGymSpawnRate": 1.0,
@@ -234,7 +239,8 @@
         "m_SubObjectName": "",
         "m_SubObjectType": ""
       },
-      "showOnSponsoredPois": 0
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0
     },
     {
       "decorationPrefab": {
@@ -242,7 +248,8 @@
         "m_SubObjectName": "",
         "m_SubObjectType": ""
       },
-      "showOnSponsoredPois": 0
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0
     },
     {
       "decorationPrefab": {
@@ -250,7 +257,8 @@
         "m_SubObjectName": "",
         "m_SubObjectType": ""
       },
-      "showOnSponsoredPois": 0
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0
     }
   ],
   "teamGymSpawnRate": 1.0,
@@ -261,7 +269,8 @@
         "m_SubObjectName": "",
         "m_SubObjectType": ""
       },
-      "showOnSponsoredPois": 0
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0
     }
   ],
   "redGymDecorations": [
@@ -271,7 +280,8 @@
         "m_SubObjectName": "",
         "m_SubObjectType": ""
       },
-      "showOnSponsoredPois": 0
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0
     }
   ],
   "yellowGymDecorations": [
@@ -281,7 +291,8 @@
         "m_SubObjectName": "",
         "m_SubObjectType": ""
       },
-      "showOnSponsoredPois": 0
+      "showOnSponsoredPois": 0,
+      "usesPokestopStateLogic": 0
     }
   ]
 }

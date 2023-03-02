@@ -32,5 +32,6 @@
     "m_PathID": 9191466461715129185
   },
   "PoiFarAirEffectImageAddress": "tx_magnetic_cube_far",
-  "PoiFarEffectSecondaryImageAddress": "tx_MagneticCube"
+  "PoiFarEffectSecondaryImageAddress": "tx_MagneticCube",
+  "PoiStyleAddress": "NONE"
 }

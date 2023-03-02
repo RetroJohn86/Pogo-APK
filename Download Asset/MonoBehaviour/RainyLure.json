@@ -32,5 +32,6 @@
     "m_PathID": 4663563005957367194
   },
   "PoiFarAirEffectImageAddress": "tx_rainyLure_rain_streaks",
-  "PoiFarEffectSecondaryImageAddress": "tx_rainyLure_puddle"
+  "PoiFarEffectSecondaryImageAddress": "tx_rainyLure_puddle",
+  "PoiStyleAddress": "NONE"
 }

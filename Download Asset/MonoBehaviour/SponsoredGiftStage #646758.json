@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7778619718789409392
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8391028109432374707
+  },
+  "m_Name": "",
+  "renderToTextureCamera": {
+    "m_FileID": 0,
+    "m_PathID": -4204298204037628839
+  },
+  "giftBoxAnimator": {
+    "m_FileID": 0,
+    "m_PathID": -4321600476707119059
+  },
+  "idleParticle": {
+    "m_FileID": 0,
+    "m_PathID": -6284664514181008650
+  },
+  "openParticle": {
+    "m_FileID": 0,
+    "m_PathID": 2067286209183246293
+  }
+}

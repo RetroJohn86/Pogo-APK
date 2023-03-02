@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -4291005712061939743
+    "m_PathID": 4338998152204313662
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -14,9 +14,9 @@
     "m_PathID": 0
   },
   "m_Color": {
-    "r": 1.0,
-    "g": 1.0,
-    "b": 1.0,
+    "r": 0.0,
+    "g": 0.2784314,
+    "b": 0.36862746,
     "a": 1.0
   },
   "m_RaycastTarget": 0,
@@ -34,23 +34,23 @@
   },
   "m_FontData": {
     "m_Font": {
-      "m_FileID": 2,
+      "m_FileID": 1,
       "m_PathID": 3961234815876835176
     },
     "m_FontSize": 28,
     "m_FontStyle": 0,
-    "m_BestFit": 1,
-    "m_MinSize": 16,
-    "m_MaxSize": 28,
-    "m_Alignment": 3,
+    "m_BestFit": 0,
+    "m_MinSize": 2,
+    "m_MaxSize": 40,
+    "m_Alignment": 5,
     "m_AlignByGeometry": 0,
-    "m_RichText": 0,
+    "m_RichText": 1,
     "m_HorizontalOverflow": 0,
     "m_VerticalOverflow": 0,
     "m_LineSpacing": 1.0
   },
-  "m_Text": "Pokémon Caught",
-  "textKey": "level_up_stats_pokemon_caught",
+  "m_Text": "CP",
+  "textKey": "general_cp",
   "caseTransform": 0,
   "textProviders": [],
   "maxPreferredWidth": -1.0,

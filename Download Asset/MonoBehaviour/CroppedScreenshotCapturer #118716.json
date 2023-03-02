@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3948528855917866017
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5307401862865274715
+  },
+  "m_Name": "",
+  "layerMask": {
+    "m_Bits": 32
+  },
+  "areaToCapture": {
+    "m_FileID": 0,
+    "m_PathID": -8144259982554174799
+  }
+}

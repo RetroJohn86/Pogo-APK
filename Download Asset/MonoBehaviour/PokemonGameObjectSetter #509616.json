@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4832434427140371938
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5360167874876922414
+  },
+  "m_Name": "",
+  "gameObjectSets": [
+    {
+      "root": {
+        "m_FileID": 0,
+        "m_PathID": 3133969655182011152
+      },
+      "defaultPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6517228914604955074
+      },
+      "shinyPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7314548458130170062
+      }
+    },
+    {
+      "root": {
+        "m_FileID": 0,
+        "m_PathID": 5321505424424997661
+      },
+      "defaultPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2243595147248069125
+      },
+      "shinyPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5189115784641601533
+      }
+    },
+    {
+      "root": {
+        "m_FileID": 0,
+        "m_PathID": -1832644222707272094
+      },
+      "defaultPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8821462541727136202
+      },
+      "shinyPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7596364785634704765
+      }
+    }
+  ]
+}

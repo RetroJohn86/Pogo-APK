@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -1754146336202021012
+    "m_PathID": 7404487907482276258
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -11,14 +11,47 @@
   "m_Name": "",
   "meshRenderer": {
     "m_FileID": 0,
-    "m_PathID": -6319419543366289099
+    "m_PathID": 4964272117627041232
   },
-  "extraMeshRenderers": [],
+  "extraMeshRenderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7528229805065911434
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2409638640604973883
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1915614353085370419
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 254061873109290352
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5668853093890634407
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7215884236126340118
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6933646439211481172
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7837476554282120092
+    }
+  ],
   "baseDaySettings": {
     "textureReference": {
-      "assetGuid": "45c6b2046b20e4f8f96591abafa22c9e",
-      "assetType": "UnityEngine.Texture2D",
-      "resourcePath": "Encounter/Parkscene_Background"
+      "assetGuid": "",
+      "assetType": "",
+      "resourcePath": ""
     },
     "useAddressableTexture": 0,
     "textureAsset": {
@@ -34,15 +67,15 @@
         "a": 1.0
       },
       "key1": {
-        "r": 0.8014706,
-        "g": 0.80283976,
+        "r": 0.8627451,
+        "g": 0.9192453,
         "b": 1.0,
         "a": 1.0
       },
       "key2": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
+        "r": 0.5882353,
+        "g": 0.6784314,
+        "b": 0.8980392,
         "a": 0.0
       },
       "key3": {
@@ -76,8 +109,8 @@
         "a": 0.0
       },
       "ctime0": 0,
-      "ctime1": 65535,
-      "ctime2": 0,
+      "ctime1": 65150,
+      "ctime2": 65535,
       "ctime3": 0,
       "ctime4": 0,
       "ctime5": 0,
@@ -109,21 +142,21 @@
         "a": 1.0
       },
       "key2": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
+        "r": 1.0,
+        "g": 0.79155296,
+        "b": 0.25943398,
         "a": 0.0
       },
       "key3": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
+        "r": 1.0,
+        "g": 0.79155296,
+        "b": 0.25943398,
         "a": 0.0
       },
       "key4": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
+        "r": 1.0,
+        "g": 0.79155296,
+        "b": 0.25943398,
         "a": 0.0
       },
       "key5": {
@@ -146,9 +179,9 @@
       },
       "ctime0": 0,
       "ctime1": 65535,
-      "ctime2": 0,
-      "ctime3": 0,
-      "ctime4": 0,
+      "ctime2": 65535,
+      "ctime3": 65535,
+      "ctime4": 65535,
       "ctime5": 0,
       "ctime6": 0,
       "ctime7": 0,
@@ -192,9 +225,9 @@
   },
   "rainyDaySettings": {
     "textureReference": {
-      "assetGuid": "45c6b2046b20e4f8f96591abafa22c9e",
-      "assetType": "UnityEngine.Texture2D",
-      "resourcePath": "Encounter/Parkscene_Background"
+      "assetGuid": "",
+      "assetType": "",
+      "resourcePath": ""
     },
     "useAddressableTexture": 0,
     "textureAsset": {
@@ -210,9 +243,9 @@
         "a": 1.0
       },
       "key1": {
-        "r": 0.58704585,
-        "g": 0.67898077,
-        "b": 0.89705884,
+        "r": 0.5882353,
+        "g": 0.7532716,
+        "b": 0.8980392,
         "a": 1.0
       },
       "key2": {
@@ -368,9 +401,9 @@
   },
   "snowyDaySettings": {
     "textureReference": {
-      "assetGuid": "03fe50f3d202c11419dd9f2869b71f38",
-      "assetType": "UnityEngine.Texture2D",
-      "resourcePath": "Encounter/Parkscene_Background_Snow"
+      "assetGuid": "",
+      "assetType": "",
+      "resourcePath": ""
     },
     "useAddressableTexture": 0,
     "textureAsset": {
@@ -386,9 +419,9 @@
         "a": 1.0
       },
       "key1": {
-        "r": 0.76297575,
-        "g": 0.86172664,
-        "b": 0.9264706,
+        "r": 0.5855287,
+        "g": 0.72320676,
+        "b": 0.8113208,
         "a": 1.0
       },
       "key2": {
@@ -544,9 +577,9 @@
   },
   "baseNightSettings": {
     "textureReference": {
-      "assetGuid": "45c6b2046b20e4f8f96591abafa22c9e",
-      "assetType": "UnityEngine.Texture2D",
-      "resourcePath": "Encounter/Parkscene_Background"
+      "assetGuid": "",
+      "assetType": "",
+      "resourcePath": ""
     },
     "useAddressableTexture": 0,
     "textureAsset": {
@@ -556,15 +589,15 @@
     },
     "tintGradient": {
       "key0": {
-        "r": 0.43382353,
-        "g": 0.5080121,
-        "b": 1.0,
+        "r": 0.27612138,
+        "g": 0.3805285,
+        "b": 0.8018868,
         "a": 1.0
       },
       "key1": {
-        "r": 0.23572662,
-        "g": 0.30985853,
-        "b": 0.8014706,
+        "r": 0.17644179,
+        "g": 0.28683317,
+        "b": 0.6132076,
         "a": 1.0
       },
       "key2": {
@@ -604,7 +637,7 @@
         "a": 0.0
       },
       "ctime0": 0,
-      "ctime1": 65535,
+      "ctime1": 65342,
       "ctime2": 0,
       "ctime3": 0,
       "ctime4": 0,
@@ -711,9 +744,9 @@
   },
   "rainyNightSettings": {
     "textureReference": {
-      "assetGuid": "45c6b2046b20e4f8f96591abafa22c9e",
-      "assetType": "UnityEngine.Texture2D",
-      "resourcePath": "Encounter/Parkscene_Background"
+      "assetGuid": "",
+      "assetType": "",
+      "resourcePath": ""
     },
     "useAddressableTexture": 0,
     "textureAsset": {
@@ -723,15 +756,15 @@
     },
     "tintGradient": {
       "key0": {
-        "r": 0.43382353,
-        "g": 0.5080121,
-        "b": 1.0,
+        "r": 0.35248306,
+        "g": 0.45063794,
+        "b": 0.8396226,
         "a": 1.0
       },
       "key1": {
-        "r": 0.23572662,
-        "g": 0.30985853,
-        "b": 0.8014706,
+        "r": 0.18009079,
+        "g": 0.27079082,
+        "b": 0.5377358,
         "a": 1.0
       },
       "key2": {
@@ -878,9 +911,9 @@
   },
   "snowyNightSettings": {
     "textureReference": {
-      "assetGuid": "03fe50f3d202c11419dd9f2869b71f38",
-      "assetType": "UnityEngine.Texture2D",
-      "resourcePath": "Encounter/Parkscene_Background_Snow"
+      "assetGuid": "",
+      "assetType": "",
+      "resourcePath": ""
     },
     "useAddressableTexture": 0,
     "textureAsset": {
@@ -890,15 +923,15 @@
     },
     "tintGradient": {
       "key0": {
-        "r": 0.49199829,
-        "g": 0.5527831,
-        "b": 0.9558824,
+        "r": 0.37673548,
+        "g": 0.50857097,
+        "b": 0.9622642,
         "a": 1.0
       },
       "key1": {
-        "r": 0.45415226,
-        "g": 0.50255334,
-        "b": 0.8235294,
+        "r": 0.1014151,
+        "g": 0.19606915,
+        "b": 0.4056604,
         "a": 1.0
       },
       "key2": {
@@ -1080,6 +1113,6 @@
   ],
   "_pokemonPositioner": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": -368539170203598579
   }
 }

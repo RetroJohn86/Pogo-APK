@@ -32,5 +32,6 @@
     "m_PathID": 7230167862903947760
   },
   "PoiFarAirEffectImageAddress": "tx_leaf_far",
-  "PoiFarEffectSecondaryImageAddress": "0"
+  "PoiFarEffectSecondaryImageAddress": "0",
+  "PoiStyleAddress": "NONE"
 }

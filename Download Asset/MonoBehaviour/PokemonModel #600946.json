@@ -1,0 +1,101 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 296687031282083628
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6078370316984442699
+  },
+  "m_Name": "",
+  "ViewID": 190,
+  "formId": -1,
+  "walkSpeed": 0.59999996,
+  "runSpeed": 4.2,
+  "Origin": {
+    "m_FileID": 0,
+    "m_PathID": 5260501890090720622
+  },
+  "Waist": {
+    "m_FileID": 0,
+    "m_PathID": 3076180938658081092
+  },
+  "Head": {
+    "m_FileID": 0,
+    "m_PathID": 3868432436473329105
+  },
+  "ViewFBX": {
+    "m_FileID": 0,
+    "m_PathID": 4946423516247881291
+  },
+  "customCollisionTransforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6079433794763382728
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 498263388877122355
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6634904930803656795
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 962281029767400515
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6724679329990554926
+    }
+  ],
+  "attentionBonesTransformsIsSet": 1,
+  "attentionBonesRotationLimitDegrees": 40.0,
+  "attentionBonesPettingLimitDegrees": 15.0,
+  "attentionBonesTransforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3868432436473329105
+    }
+  ],
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": -6220202842066866405
+  },
+  "isFlying": 0,
+  "haloSocket": {
+    "m_FileID": 0,
+    "m_PathID": 8411229560947868505
+  },
+  "faceSocket": {
+    "m_FileID": 0,
+    "m_PathID": -4215916217269169777
+  },
+  "bodySocket": {
+    "m_FileID": 0,
+    "m_PathID": -2626077804988007125
+  },
+  "groundSocket": {
+    "m_FileID": 0,
+    "m_PathID": -7799925732769923779
+  },
+  "centerSocket": {
+    "m_FileID": 0,
+    "m_PathID": 1616359787709058309
+  },
+  "feedingSocket": {
+    "m_FileID": 0,
+    "m_PathID": 1468637557660925277
+  },
+  "badgeSocket": {
+    "m_FileID": 0,
+    "m_PathID": -8497807659103285473
+  },
+  "defaultContext": 0,
+  "glowEffect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}
