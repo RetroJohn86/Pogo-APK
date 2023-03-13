@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2166399336556568252
+  },
+  "m_Name": "RainyLure",
+  "ForItem": 505,
+  "NameKey": "item_troy_disk_rainy_name",
+  "DescriptionKey": "item_troy_disk_rainy_desc",
+  "SlotIcon": {
+    "m_AssetGUID": "77ae321d2e3774b63947dcc7718b5f1a",
+    "m_SubObjectName": "TroyKeyVector",
+    "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "InventoryIcon": {
+    "m_AssetGUID": "3bccf58b3864f497ea10ee77b10d7d4e",
+    "m_SubObjectName": "TroyKey_rainy",
+    "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "EvolveButtonIcon": {
+    "m_AssetGUID": "3bccf58b3864f497ea10ee77b10d7d4e",
+    "m_SubObjectName": "TroyKey_rainy",
+    "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "PoiActiveEffect": {
+    "m_FileID": 0,
+    "m_PathID": 4663563005957367194
+  },
+  "PoiFarAirEffectImageAddress": "tx_rainyLure_rain_streaks",
+  "PoiFarEffectSecondaryImageAddress": "tx_rainyLure_puddle",
+  "PoiStyleAddress": "NONE"
+}

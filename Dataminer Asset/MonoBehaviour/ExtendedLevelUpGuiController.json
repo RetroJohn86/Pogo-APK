@@ -1,0 +1,173 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -228550313133319877
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6198358796840420109
+  },
+  "m_Name": "",
+  "customBackButtonEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "hideWorldMapBehindGui": 0,
+  "hidesPreviousGuis": 0,
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "layer": 300,
+  "depth": 1,
+  "overrideSortingOrder": 0,
+  "customSortingOrder": 0,
+  "transitionsBlockInput": 1,
+  "backButtonResponse": 1,
+  "showRewardsDelaySeconds": 0.5,
+  "showRewardsWithinSectionDelaySeconds": 0.5,
+  "rewardRowShiftDistance": 34.0,
+  "levelUpAnimator": {
+    "m_FileID": 0,
+    "m_PathID": -2254122981249459375
+  },
+  "badgeAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 1850299316152107835
+  },
+  "guiAnimator": {
+    "m_FileID": 0,
+    "m_PathID": -8194605316977453449
+  },
+  "textLevel": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6999052450565390180
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6223163397633076574
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7993327378966861244
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3334912963291549644
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1123494697578071029
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6350578254733930196
+    }
+  ],
+  "levelUpMusicReference": {
+    "m_AssetGUID": "5efb73271e06fe046a64fd66a4ead079",
+    "m_SubObjectName": "",
+    "m_SubObjectType": ""
+  },
+  "rewardsGroup": {
+    "m_FileID": 0,
+    "m_PathID": 193295570031218044
+  },
+  "avatarItemsGroup": {
+    "m_FileID": 0,
+    "m_PathID": 7040300986228323654
+  },
+  "rewardItemsPerRow": 4,
+  "rewardsRows": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4617472513224064587
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6711275466120391497
+    }
+  ],
+  "avatarRewardParent": {
+    "m_FileID": 0,
+    "m_PathID": 7622610565752065490
+  },
+  "nextButton": {
+    "m_FileID": 0,
+    "m_PathID": -3725289332005214609
+  },
+  "nextButtonVisibilityController": {
+    "m_FileID": 0,
+    "m_PathID": 7047785049115392348
+  },
+  "playerStatsRectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 3193471310462771538
+  },
+  "playerStatsGroup": {
+    "m_FileID": 0,
+    "m_PathID": -3415009828531763419
+  },
+  "playerStatsLines": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5759231480245243414
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3556757223288299406
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -925578790228577655
+    }
+  ],
+  "playerStatsShareButton": {
+    "m_FileID": 0,
+    "m_PathID": 3843636222778978567
+  },
+  "playerStatsShareButtonVisibilityController": {
+    "m_FileID": 0,
+    "m_PathID": -6821749802252247531
+  },
+  "playerStatsAvatar": {
+    "m_FileID": 0,
+    "m_PathID": -6750540118519970895
+  },
+  "playerStatsSectionDelaySeconds": 0.5,
+  "playerStatsRowDelaySeconds": 0.15,
+  "pokeballIcon": {
+    "m_FileID": 0,
+    "m_PathID": -4393380549663004750
+  },
+  "raidIcon": {
+    "m_FileID": 0,
+    "m_PathID": 8106953900299532705
+  },
+  "pokemonCaughtText": {
+    "m_FileID": 0,
+    "m_PathID": 4066871743611055632
+  },
+  "raidsCompletedText": {
+    "m_FileID": 0,
+    "m_PathID": 2598911171239413128
+  },
+  "pokeStopsVisitedText": {
+    "m_FileID": 0,
+    "m_PathID": -8645525849159924240
+  },
+  "avatarRenderImage": {
+    "m_FileID": 0,
+    "m_PathID": -8740949989984031755
+  },
+  "croppedScreenshotCapturer": {
+    "m_FileID": 0,
+    "m_PathID": 4326848228003510567
+  },
+  "avatarCameraFOVForSharing": 6.7,
+  "sharingModeScreenCaptureDelaySeconds": 1.5,
+  "playerStatsRectTransformHeightForSharing": 265.0
+}

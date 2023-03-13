@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -217546988358337010
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8934088971446675788
+  },
+  "m_Name": "",
+  "expireTime": 2.0,
+  "airParticles": {
+    "m_FileID": 0,
+    "m_PathID": -3256064804189498333
+  },
+  "interactionModeParticleArcDegrees": 180.0,
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": -2402700914844653205
+  },
+  "nearSpinnerBoneTransform": {
+    "m_FileID": 0,
+    "m_PathID": 6700465534342184346
+  },
+  "farSpinnerTransform": {
+    "m_FileID": 0,
+    "m_PathID": 4154956277780083832
+  },
+  "lureEffectFarPlanesRoot": {
+    "m_FileID": 0,
+    "m_PathID": -1369707436098862602
+  },
+  "lureEffectFarMaterialAir": {
+    "m_FileID": 0,
+    "m_PathID": 1008802479456165483
+  },
+  "lureEffectFarSecondaryMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

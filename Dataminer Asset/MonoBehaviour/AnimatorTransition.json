@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -228550313133319877
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5564262696870253335
+  },
+  "m_Name": "",
+  "type": 0,
+  "targetAnimator": {
+    "m_FileID": 0,
+    "m_PathID": -2254122981249459375
+  },
+  "transitionState": "ExtendedLevelUp_show",
+  "transitionLayer": 0
+}

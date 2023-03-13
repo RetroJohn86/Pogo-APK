@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1944880947509198885
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 690096747395370354
+  },
+  "m_Name": "",
+  "sound": 2,
+  "autoPlay": 0,
+  "delay": 0.0
+}

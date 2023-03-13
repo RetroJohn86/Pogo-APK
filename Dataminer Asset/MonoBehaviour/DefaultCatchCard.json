@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9001341162967284850
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8938217605146069650
+  },
+  "m_Name": "",
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -5645163692557707908
+  },
+  "nameText": {
+    "m_FileID": 0,
+    "m_PathID": -2469311026242735494
+  },
+  "locationText": {
+    "m_FileID": 0,
+    "m_PathID": 7768559151608410512
+  },
+  "dateText": {
+    "m_FileID": 0,
+    "m_PathID": -5986107655818205405
+  },
+  "catchCardRect": {
+    "m_FileID": 0,
+    "m_PathID": 5549465177740034220
+  },
+  "fullCatchCardCapturer": {
+    "m_FileID": 0,
+    "m_PathID": -8544137751109400877
+  },
+  "campfireSquareCapturer": {
+    "m_FileID": 0,
+    "m_PathID": 4579096897549324265
+  },
+  "defaultPokemonSnapshot": {
+    "m_FileID": 0,
+    "m_PathID": -5564619070690132338
+  },
+  "defaultSnapshotCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 678395453495790391
+  },
+  "arPokemonSnapshot": {
+    "m_FileID": 0,
+    "m_PathID": -1534284464386410791
+  },
+  "arSnapshotCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 8049556889209140109
+  },
+  "cpText": {
+    "m_FileID": 0,
+    "m_PathID": 1509917317737697212
+  },
+  "defaultSnapshotBackgroundImage": {
+    "m_FileID": 0,
+    "m_PathID": -4863104599731444959
+  },
+  "captureItemImage": {
+    "m_FileID": 0,
+    "m_PathID": -740868852894819281
+  },
+  "caughtTitle": {
+    "m_FileID": 0,
+    "m_PathID": -9206828281508549867
+  }
+}
